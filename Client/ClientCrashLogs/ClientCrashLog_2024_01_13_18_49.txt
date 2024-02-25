@@ -1,0 +1,656 @@
+13.01. 17:50:52.737    ***Logfile for C&C WarZone client***
+13.01. 17:50:52.737    Client version: 2.6.7.5
+13.01. 17:50:52.753    Loading settings.
+13.01. 17:50:53.127    Initializing updater.
+13.01. 17:50:53.143    Update mirror count: 1
+13.01. 17:50:53.143    Running from: clientdx.exe
+13.01. 17:50:53.143    Operating system: Microsoft Windows NT 6.2.9200.0
+13.01. 17:50:53.143    Selected OS profile: WIN810
+13.01. 17:50:53.205    Removing partial custom component downloads.
+13.01. 17:50:53.221    Checking for the existence of FinalSun.ini.
+13.01. 17:50:53.221    FinalSun settings file exists.
+13.01. 17:50:53.221    Writing installation path to the Windows registry.
+13.01. 17:50:53.252    Starting background processing of INI files.
+13.01. 17:50:53.252    /INI/Base does not exist, skipping background processing of INI files.
+13.01. 17:50:54.283    Initializing GameClass.
+13.01. 17:50:54.639    InitGraphicsMode: 1280x800
+13.01. 17:50:54.836    Checking local file versions.
+13.01. 17:50:54.843    Loading maps.
+13.01. 17:50:57.364    Attempting to parse INI/Battle.ini to populate mission list.
+13.01. 17:50:57.364    File INI/Battle.ini not found. Ignoring.
+13.01. 17:50:57.364    Attempting to parse INI/BattleFS.ini to populate mission list.
+13.01. 17:50:57.364    File INI/BattleFS.ini not found. Ignoring.
+13.01. 17:50:57.404    Attempting to parse INI\BattleRA2.ini to populate mission list.
+13.01. 17:50:57.423    Finished parsing INI\BattleRA2.ini.
+13.01. 17:50:57.434    Attempting to parse INI\BattleYR.ini to populate mission list.
+13.01. 17:50:57.434    File INI\BattleYR.ini not found. Ignoring.
+13.01. 17:50:57.472    Attempting to parse INI\BattleGEN.ini to populate mission list.
+13.01. 17:50:57.472    File INI\BattleGEN.ini not found. Ignoring.
+13.01. 17:50:57.492    Attempting to parse INI\BattleRotE.ini to populate mission list.
+13.01. 17:50:57.492    File INI\BattleRotE.ini not found. Ignoring.
+13.01. 17:50:57.512    Attempting to parse INI\Challenge.ini to populate mission list.
+13.01. 17:50:57.512    File INI\Challenge.ini not found. Ignoring.
+13.01. 17:50:57.679    Reading statistics.
+13.01. 17:50:58.240    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 17:50:58.278    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 17:50:58.278    AssetLoader.LoadSound: Sound not found! return.wav
+13.01. 17:50:58.611    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 17:50:58.611    AssetLoader.LoadSound: Sound not found! return.wav
+13.01. 17:50:58.650    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 17:50:59.043    CheckForUpdates()
+13.01. 17:50:59.053    Checking version on the server.
+13.01. 17:50:59.063    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+13.01. 17:50:59.924    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 12GB
+13.01. 17:51:00.918    Downloaded version information, parsing.
+13.01. 17:51:00.933    Server game version is 5.7.7, local version is 5.7.7
+13.01. 17:51:00.933    File identifiers updated.
+13.01. 17:51:00.938    Checking if custom components are outdated.
+13.01. 17:51:02.083    Creating LAN socket.
+13.01. 17:51:02.083    Starting listener.
+13.01. 17:51:04.124    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+13.01. 17:51:05.137    Creating LAN socket.
+13.01. 17:51:05.137    Starting listener.
+13.01. 17:51:05.989    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+13.01. 17:51:07.785    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:51:08.842    Creating LAN socket.
+13.01. 17:51:08.842    Starting listener.
+13.01. 17:51:11.463    New client connected from 127.0.0.1
+13.01. 17:51:11.631    Hash for Resources/FHCConfig.ini: 
+13.01. 17:51:11.631    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+13.01. 17:51:11.631    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+13.01. 17:51:11.631    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+13.01. 17:51:11.631    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+13.01. 17:51:11.631    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+13.01. 17:51:11.631    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+13.01. 17:51:11.631    Hash for spawner.xdp: 
+13.01. 17:51:11.631    Hash for rules.ini: 
+13.01. 17:51:11.636    Hash for ai.ini: 
+13.01. 17:51:11.636    Hash for art.ini: 
+13.01. 17:51:11.636    Hash for shroud.shp: 
+13.01. 17:51:11.641    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+13.01. 17:51:11.641    Hash for INI/Enhance.ini: 
+13.01. 17:51:11.649    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+13.01. 17:51:11.657    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+13.01. 17:51:11.657    Hash for INI/ArtE.ini: 
+13.01. 17:51:11.661    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+13.01. 17:51:11.666    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+13.01. 17:51:11.666    Hash for INI/AIE.ini: 
+13.01. 17:51:11.671    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+13.01. 17:51:11.679    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+13.01. 17:51:11.682    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+13.01. 17:51:11.687    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+13.01. 17:51:11.687    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+13.01. 17:51:11.692    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+13.01. 17:51:11.698    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+13.01. 17:51:11.702    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+13.01. 17:51:11.702    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+13.01. 17:51:11.708    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+13.01. 17:51:11.708    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+13.01. 17:51:11.713    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+13.01. 17:51:11.718    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+13.01. 17:51:11.718    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 17:51:11.722    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+13.01. 17:51:11.728    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+13.01. 17:51:11.728    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+13.01. 17:51:11.737    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+13.01. 17:51:11.739    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+13.01. 17:51:11.742    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+13.01. 17:51:11.747    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+13.01. 17:51:11.753    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+13.01. 17:51:11.753    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 17:51:11.753    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+13.01. 17:51:11.761    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+13.01. 17:51:11.763    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+13.01. 17:51:11.768    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+13.01. 17:51:11.773    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+13.01. 17:51:11.778    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+13.01. 17:51:11.780    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+13.01. 17:51:20.489    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:51:34.368    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:51:49.480    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:52:05.746    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:52:23.235    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:52:41.894    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:53:01.766    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:53:22.812    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:53:45.028    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:54:08.454    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:54:33.073    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:54:58.870    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:55:24.503    New client connected from 192.168.178.234
+13.01. 17:55:25.856    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:55:34.747    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:34.767    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:34.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:34.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:34.837    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:44.885    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:44.946    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:45.036    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:55:54.025    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:56:07.326    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.342    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.391    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:07.395    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:17.453    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:17.473    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:17.473    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:17.543    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:23.392    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:56:27.606    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:27.621    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:27.685    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:27.685    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.859    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.907    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:37.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.072    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.092    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.092    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.092    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.092    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.092    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:48.142    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:53.932    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:56:58.224    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:58.237    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:58.237    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:58.237    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:58.237    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:56:58.306    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:16.531    Writing spawn.ini
+13.01. 17:57:16.558    Writing map.
+13.01. 17:57:16.558    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/Maps/Custom\wz_6_refuge.map
+13.01. 17:57:16.606    About to launch main game executable.
+13.01. 17:57:16.646    Writing settings INI.
+13.01. 17:57:16.656    Launch executable: game.exe
+13.01. 17:57:16.656    Launch arguments: -SPAWN
+13.01. 17:57:16.676    GameProcessLogic: Process started.
+13.01. 17:57:16.706    Waiting for qres.dat or game.exe to exit.
+13.01. 17:57:25.675    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:57:26.953    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:26.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:26.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:27.960    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:37.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:47.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:57.951    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:57:58.601    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:58:07.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:18.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:18.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:18.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:18.963    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:18.963    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:19.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:29.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:32.710    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:58:39.950    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:49.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:58:59.960    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:08.018    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:59:10.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:10.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:10.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:10.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:10.959    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:11.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:21.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:31.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:41.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 17:59:44.515    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 17:59:51.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:02.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:02.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:02.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:02.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:02.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:03.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:13.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:22.207    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:00:23.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:33.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:43.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:54.947    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:54.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:54.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:54.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:54.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:00:55.950    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:01.109    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:01:05.947    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:15.950    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:25.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:35.955    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:41.175    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:01:46.946    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:46.946    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:46.946    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:46.947    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:46.947    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:47.950    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:01:57.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:07.959    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:17.951    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:22.429    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:02:27.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:38.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:38.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:38.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:38.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:38.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:39.959    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:49.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:02:59.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:04.881    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:03:09.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:19.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:30.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:31.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:31.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:31.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:31.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:31.955    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:41.948    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:03:48.530    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:03:51.961    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:01.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:11.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:22.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:23.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:23.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:23.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:23.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:23.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:33.366    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:04:33.954    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:43.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:04:53.949    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:03.953    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:14.951    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:15.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:15.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:15.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:15.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:15.957    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:19.380    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:05:25.953    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:35.955    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:45.960    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:05:55.960    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:06.593    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:06:06.958    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:07.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:07.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:07.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:07.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:08.154    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:17.952    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:28.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:28.953    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:39.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:39.960    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:50.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:51.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:06:54.998    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:07:01.150    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:11.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:21.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:31.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:42.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:42.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:42.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:42.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:43.146    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:43.146    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:07:44.595    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:07:53.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:03.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:13.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:23.147    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:34.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:34.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:34.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:34.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:34.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:35.151    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:35.373    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:08:45.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:08:55.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:05.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:15.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:26.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:26.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:26.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:26.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:26.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:27.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:27.349    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:09:37.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:47.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:09:57.147    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:07.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:18.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:18.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:18.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:18.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:18.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:19.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:20.505    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:10:29.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:39.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:49.146    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:10:59.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:10.151    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:10.151    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:10.151    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:10.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:10.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:11.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:14.857    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:11:21.147    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:31.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:41.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:11:51.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:02.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:02.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:02.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:02.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:02.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:03.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:10.417    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:12:13.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:23.151    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:33.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:43.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:54.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:54.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:54.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:54.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:54.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:12:55.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:05.150    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:07.143    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:13:15.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:25.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:35.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:46.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:46.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:46.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:46.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:46.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:47.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:13:57.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:05.061    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:14:07.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:17.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:27.143    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:38.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:38.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:38.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:38.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:38.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:39.150    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:49.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:14:59.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:04.169    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:15:09.149    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:19.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:30.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:30.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:30.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:30.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:30.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:31.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:41.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:15:51.148    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:01.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:02.357    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:04.462    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:16:12.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:22.155    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:32.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:43.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:43.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:43.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:43.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:43.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:44.137    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:16:54.150    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:04.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:05.958    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:17:14.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:24.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:35.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:35.347    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:35.347    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:35.347    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:35.347    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:36.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:46.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:17:56.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:06.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:08.637    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:18:16.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:27.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:27.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:27.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:27.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:27.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:28.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:38.153    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:48.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:18:58.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:08.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:09.156    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:12.536    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:19:19.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:29.355    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:30.154    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:40.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:50.344    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:19:51.348    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:01.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:11.157    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:17.597    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:20:21.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:22.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:32.354    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:42.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:20:52.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:02.347    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:13.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:13.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:13.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:13.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:13.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:14.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:23.839    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:21:24.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:34.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:44.353    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:21:54.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:05.353    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:05.353    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:05.353    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:05.354    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:05.354    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:06.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:16.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:26.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:31.284    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:22:36.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:46.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:57.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:57.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:57.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:57.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:57.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:22:58.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:08.356    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:18.348    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:28.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:38.355    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:39.932    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:23:49.357    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:49.357    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:49.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:49.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:49.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:23:50.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:00.355    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:10.356    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:20.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:30.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:41.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:41.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:41.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:41.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:41.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:42.357    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:24:49.762    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:24:52.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:02.348    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:12.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:22.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:33.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:33.350    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:33.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:33.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:33.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:34.355    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:44.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:25:54.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:00.781    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:26:04.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:14.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:25.357    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:25.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:25.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:25.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:25.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:26.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:36.349    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:46.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:26:56.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:06.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:11.791    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:27:17.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:17.558    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:17.558    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:17.558    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:17.558    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:18.354    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:28.354    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:38.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:48.557    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:49.548    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:27:59.556    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:09.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:19.557    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:22.814    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:28:29.750    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:30.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:40.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:41.758    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:28:51.746    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:01.750    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:11.756    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:21.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:32.753    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:32.753    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:32.754    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:32.754    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:32.754    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:33.756    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:33.820    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:29:43.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:29:53.747    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:03.761    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:13.757    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:24.757    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:24.757    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:24.757    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:24.758    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:24.758    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:25.758    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:35.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:44.827    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:30:45.752    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:30:55.747    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:05.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:16.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:16.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:16.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:16.756    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:16.756    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:17.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:27.762    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:37.762    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:47.749    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:31:55.823    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:31:57.755    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:08.748    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:08.748    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:08.749    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:08.749    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:08.749    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:09.753    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:19.762    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:29.758    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:39.762    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:32:49.749    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:00.759    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:00.759    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:00.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:00.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:00.760    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:01.762    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:06.828    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:33:11.956    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:12.962    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:22.761    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:36.152    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:36.550    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:46.552    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 18:33:58.008    Socket error with client steamuser; removing. Message: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+13.01. 18:34:17.844    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 18:49:33.786    KABOOOOOOM!!! Info:
+13.01. 18:49:33.787    Message: A socket operation was attempted to an unreachable host
+13.01. 18:49:33.811    Source: System
+13.01. 18:49:33.812    TargetSite.Name: SendTo
+13.01. 18:49:33.819    Stacktrace:    at System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendMessage(String message)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendAlive()
+   at DTAClient.DXGUI.Multiplayer.LANLobby.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)

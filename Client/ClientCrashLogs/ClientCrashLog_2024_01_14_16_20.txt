@@ -1,0 +1,155 @@
+14.01. 16:17:21.673    ***Logfile for C&C WarZone client***
+14.01. 16:17:21.704    Client version: 2.6.7.5
+14.01. 16:17:21.704    Loading settings.
+14.01. 16:17:21.930    Initializing updater.
+14.01. 16:17:21.939    Update mirror count: 1
+14.01. 16:17:21.939    Running from: clientdx.exe
+14.01. 16:17:21.955    Operating system: Microsoft Windows NT 6.2.9200.0
+14.01. 16:17:21.955    Selected OS profile: WIN810
+14.01. 16:17:22.017    Removing partial custom component downloads.
+14.01. 16:17:22.017    Checking for the existence of FinalSun.ini.
+14.01. 16:17:22.017    FinalSun settings file exists.
+14.01. 16:17:22.033    Writing installation path to the Windows registry.
+14.01. 16:17:22.049    Starting background processing of INI files.
+14.01. 16:17:22.064    /INI/Base does not exist, skipping background processing of INI files.
+14.01. 16:17:22.737    Initializing GameClass.
+14.01. 16:17:23.047    InitGraphicsMode: 1280x800
+14.01. 16:17:23.214    Checking local file versions.
+14.01. 16:17:23.222    Loading maps.
+14.01. 16:17:24.986    Attempting to parse INI/Battle.ini to populate mission list.
+14.01. 16:17:24.986    File INI/Battle.ini not found. Ignoring.
+14.01. 16:17:24.986    Attempting to parse INI/BattleFS.ini to populate mission list.
+14.01. 16:17:24.986    File INI/BattleFS.ini not found. Ignoring.
+14.01. 16:17:25.016    Attempting to parse INI\BattleRA2.ini to populate mission list.
+14.01. 16:17:25.037    Finished parsing INI\BattleRA2.ini.
+14.01. 16:17:25.055    Attempting to parse INI\BattleYR.ini to populate mission list.
+14.01. 16:17:25.055    File INI\BattleYR.ini not found. Ignoring.
+14.01. 16:17:25.085    Attempting to parse INI\BattleGEN.ini to populate mission list.
+14.01. 16:17:25.085    File INI\BattleGEN.ini not found. Ignoring.
+14.01. 16:17:25.104    Attempting to parse INI\BattleRotE.ini to populate mission list.
+14.01. 16:17:25.104    File INI\BattleRotE.ini not found. Ignoring.
+14.01. 16:17:25.125    Attempting to parse INI\Challenge.ini to populate mission list.
+14.01. 16:17:25.125    File INI\Challenge.ini not found. Ignoring.
+14.01. 16:17:25.281    Reading statistics.
+14.01. 16:17:25.742    AssetLoader.LoadSound: Sound not found! getready.wav
+14.01. 16:17:25.800    AssetLoader.LoadSound: Sound not found! getready.wav
+14.01. 16:17:25.803    AssetLoader.LoadSound: Sound not found! return.wav
+14.01. 16:17:26.075    AssetLoader.LoadSound: Sound not found! getready.wav
+14.01. 16:17:26.075    AssetLoader.LoadSound: Sound not found! return.wav
+14.01. 16:17:26.125    AssetLoader.LoadSound: Sound not found! getready.wav
+14.01. 16:17:26.428    CheckForUpdates()
+14.01. 16:17:26.440    Checking version on the server.
+14.01. 16:17:26.440    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+14.01. 16:17:28.014    Downloaded version information, parsing.
+14.01. 16:17:28.029    Server game version is 5.7.7, local version is 5.7.7
+14.01. 16:17:28.029    File identifiers updated.
+14.01. 16:17:28.034    Checking if custom components are outdated.
+14.01. 16:17:28.603    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 12GB
+14.01. 16:17:29.478    Creating LAN socket.
+14.01. 16:17:29.479    Starting listener.
+14.01. 16:17:32.739    New client connected from 127.0.0.1
+14.01. 16:17:32.895    Hash for Resources/FHCConfig.ini: 
+14.01. 16:17:32.895    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+14.01. 16:17:32.895    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+14.01. 16:17:32.895    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+14.01. 16:17:32.895    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+14.01. 16:17:32.895    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+14.01. 16:17:32.895    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+14.01. 16:17:32.895    Hash for spawner.xdp: 
+14.01. 16:17:32.895    Hash for rules.ini: 
+14.01. 16:17:32.895    Hash for ai.ini: 
+14.01. 16:17:32.895    Hash for art.ini: 
+14.01. 16:17:32.895    Hash for shroud.shp: 
+14.01. 16:17:32.900    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+14.01. 16:17:32.900    Hash for INI/Enhance.ini: 
+14.01. 16:17:32.900    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+14.01. 16:17:32.900    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+14.01. 16:17:32.900    Hash for INI/ArtE.ini: 
+14.01. 16:17:32.905    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+14.01. 16:17:32.905    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+14.01. 16:17:32.905    Hash for INI/AIE.ini: 
+14.01. 16:17:32.905    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+14.01. 16:17:32.905    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+14.01. 16:17:32.905    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+14.01. 16:17:32.910    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+14.01. 16:17:32.910    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+14.01. 16:17:32.910    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+14.01. 16:17:32.910    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+14.01. 16:17:32.910    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+14.01. 16:17:32.910    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+14.01. 16:17:32.920    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+14.01. 16:17:32.921    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+14.01. 16:17:32.921    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+14.01. 16:17:32.921    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+14.01. 16:17:32.924    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+14.01. 16:17:32.924    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+14.01. 16:17:32.924    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+14.01. 16:17:32.924    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+14.01. 16:17:32.924    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+14.01. 16:17:32.924    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+14.01. 16:17:32.930    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+14.01. 16:17:32.930    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+14.01. 16:17:32.930    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+14.01. 16:17:32.937    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+14.01. 16:17:32.940    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+14.01. 16:17:32.940    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+14.01. 16:17:35.540    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:17:48.239    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:18:02.142    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:18:17.259    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:18:33.527    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:18:51.021    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:19:04.825    Writing spawn.ini
+14.01. 16:19:04.846    Writing map.
+14.01. 16:19:04.846    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/Maps/Custom\AAMetropolisVet.2.46.map
+14.01. 16:19:04.946    About to launch main game executable.
+14.01. 16:19:04.967    Writing settings INI.
+14.01. 16:19:04.981    Launch executable: game.exe
+14.01. 16:19:04.981    Launch arguments: -SPAWN
+14.01. 16:19:04.997    GameProcessLogic: Process started.
+14.01. 16:19:05.016    Waiting for qres.dat or game.exe to exit.
+14.01. 16:19:09.683    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:19:29.515    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:19:50.540    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+14.01. 16:20:07.141    GameProcessLogic: Process exited.
+14.01. 16:20:07.255    GameProcessExited: Parsing statistics.
+14.01. 16:20:07.261    Parsing game statistics.
+14.01. 16:20:07.264    Attempting to read statistics from TS.LOG
+14.01. 16:20:07.264    GameProcessExited: Adding match to statistics.
+14.01. 16:20:07.270    Skipping adding match to statistics because game only had one player.
+14.01. 16:20:07.310    Saving friend and ignore list.
+14.01. 16:20:07.316    Listener error: A blocking operation was interrupted by a call to WSACancelBlockingCall
+14.01. 16:20:07.320    Reading data from the server failed! Message: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+14.01. 16:20:07.320    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+14.01. 16:20:07.360    KABOOOOOOM!!! Info:
+14.01. 16:20:07.360    Message: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+14.01. 16:20:07.365    Source: System
+14.01. 16:20:07.365    TargetSite.Name: SendTo
+14.01. 16:20:07.370    Stacktrace:    at System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendMessage(String message)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendAlive()
+   at DTAClient.DXGUI.Multiplayer.LANLobby.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)

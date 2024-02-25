@@ -1,0 +1,410 @@
+16:59:15:475 [09828] | INFO  | Initializing crosire's ReShade version '4.6.1.826' (32-bit) built on '2020-04-14 19:08:11' loaded from "C:\TW_Warzone_Fin.1\TW Warzone Fin\dxgi.dll" into "C:\TW_Warzone_Fin.1\TW Warzone Fin\game.exe" ...
+16:59:15:517 [09828] | INFO  | Registering hooks for "user32.dll" ...
+16:59:15:517 [09828] | INFO  | > Libraries loaded.
+16:59:15:518 [09828] | INFO  | > Found 13 match(es). Installing ...
+16:59:15:529 [09828] | INFO  | Registering hooks for "ws2_32.dll" ...
+16:59:15:529 [09828] | INFO  | > Libraries loaded.
+16:59:15:529 [09828] | INFO  | > Found 8 match(es). Installing ...
+16:59:15:540 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d2d1.dll" ...
+16:59:15:545 [09828] | INFO  | > Delayed.
+16:59:15:545 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d3d9.dll" ...
+16:59:15:545 [09828] | INFO  | > Delayed.
+16:59:15:545 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d3d10.dll" ...
+16:59:15:547 [09828] | INFO  | > Delayed.
+16:59:15:547 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d3d10_1.dll" ...
+16:59:15:548 [09828] | INFO  | > Delayed.
+16:59:15:548 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d3d11.dll" ...
+16:59:15:551 [09828] | INFO  | > Delayed.
+16:59:15:551 [09828] | INFO  | Registering hooks for "C:\Windows\system32\d3d12.dll" ...
+16:59:15:552 [09828] | INFO  | > Delayed.
+16:59:15:552 [09828] | INFO  | Registering hooks for "C:\Windows\system32\dxgi.dll" ...
+16:59:15:552 [09828] | INFO  | > Delayed until first call to an exported function.
+16:59:15:552 [09828] | INFO  | Registering hooks for "C:\Windows\system32\opengl32.dll" ...
+16:59:15:552 [09828] | INFO  | > Delayed.
+16:59:15:552 [09828] | INFO  | Initialized.
+16:59:15:559 [09828] | INFO  | Installing delayed hooks for "C:\Windows\system32\d3d9.dll" (Just loaded via LoadLibrary("ext-ms-win-core-resourcepolicy-l1-1-0.dll")) ...
+16:59:15:559 [09828] | INFO  | > Found 9 match(es). Installing ...
+16:59:15:572 [09828] | INFO  | Redirecting Direct3DCreate9(SDKVersion = 32) ...
+16:59:15:607 [09828] | INFO  | Redirecting Direct3DCreate9(SDKVersion = 32) ...
+16:59:15:612 [09828] | INFO  | Redirecting IDirect3D9::CreateDevice(this = 0F6440A0, pAdapter = 0, DeviceType = 1, hFocusWindow = 00060446, BehaviorFlags = 0x54, pPresentationParameters = 713AB77C, ppReturnedDeviceInterface = 713AB770) ...
+16:59:15:612 [09828] | INFO  | > Dumping presentation parameters:
+16:59:15:612 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:15:612 [09828] | INFO  |   | Parameter                               | Value                                   |
+16:59:15:612 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:15:612 [09828] | INFO  |   | BackBufferWidth                         | 2048                                    |
+16:59:15:612 [09828] | INFO  |   | BackBufferHeight                        | 858                                     |
+16:59:15:612 [09828] | INFO  |   | BackBufferFormat                        | 22                                      |
+16:59:15:612 [09828] | INFO  |   | BackBufferCount                         | 1                                       |
+16:59:15:612 [09828] | INFO  |   | MultiSampleType                         | 0                                       |
+16:59:15:612 [09828] | INFO  |   | MultiSampleQuality                      | 0                                       |
+16:59:15:612 [09828] | INFO  |   | SwapEffect                              | 1                                       |
+16:59:15:612 [09828] | INFO  |   | DeviceWindow                            | 00060446                                |
+16:59:15:612 [09828] | INFO  |   | Windowed                                | FALSE                                   |
+16:59:15:612 [09828] | INFO  |   | EnableAutoDepthStencil                  | FALSE                                   |
+16:59:15:612 [09828] | INFO  |   | AutoDepthStencilFormat                  | 0                                       |
+16:59:15:612 [09828] | INFO  |   | Flags                                   | 0                                       |
+16:59:15:612 [09828] | INFO  |   | FullScreen_RefreshRateInHz              | 0                                       |
+16:59:15:612 [09828] | INFO  |   | PresentationInterval                    | 0x80000000                              |
+16:59:15:612 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:16:188 [09828] | INFO  | Recreated runtime environment on runtime 0F6F83B0.
+16:59:16:831 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\3DFX.fx".
+16:59:16:853 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AdaptiveFog.fx".
+16:59:16:898 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\SMAA.fx".
+16:59:16:903 [05100] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicAnamorphSharpen.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicAnamorphSharpen.fx(226, 1): warning X4576: 'FilmicAnamorphSharpenPS': input parameter 'UvCoord' semantic does not match vertex shader one
+
+16:59:16:905 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCGreen.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCGreen.fx(20, 1): warning X4576: 'PS_MCGreen': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:16:975 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Splitscreen.fx".
+16:59:16:992 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\StageDepth.fx".
+16:59:16:996 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCOrange.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCOrange.fx(20, 1): warning X4576: 'PS_MCOrange': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:17:044 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Monochrome.fx".
+16:59:17:057 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MultiLUT.fx".
+16:59:17:087 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MXAO.fx".
+16:59:17:092 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicPass.fx".
+16:59:17:096 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NightVision.fx".
+16:59:17:131 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FineSharp.fx".
+16:59:17:162 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Nostalgia.fx".
+16:59:17:200 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ntsc.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ntsc.fx(168, 1): warning X4576: 'PS_NTSC': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:17:235 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AdaptiveSharpen.fx".
+16:59:17:243 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTEasymode.fx".
+16:59:17:281 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTGeom.fx".
+16:59:17:307 [09060] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTHyllian.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTHyllian.fx(305, 1): warning X4576: 'PS_CRTHyllian': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:17:339 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\SurfaceBlur.fx".
+16:59:17:350 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Technicolor.fx".
+16:59:17:362 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Technicolor2.fx".
+16:59:17:364 [09060] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTLottes.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTLottes.fx(334, 1): warning X4576: 'PS_CRTLottes': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:17:378 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\TiltShift.fx".
+16:59:17:392 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Tonemap.fx".
+16:59:17:404 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\TriDither.fx".
+16:59:17:423 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\UIDetect.fx".
+16:59:17:427 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(144, 8): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(409, 1): warning X4576: 'NTSCEncodePS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(418, 1): warning X4576: 'NTSCDecodePS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(424, 1): warning X4576: 'NTSCGaussPS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(430, 1): warning X4576: 'NTSCFinalPS': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:17:436 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\UIMask.fx".
+16:59:17:458 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PAL.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PAL.fx(249, 1): warning X4576: 'PS_PAL': input parameter 'texCoord' semantic does not match vertex shader one
+
+16:59:17:469 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Vibrance.fx".
+16:59:17:489 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PerfectPerspective.fx".
+16:59:17:505 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Vignette.fx".
+16:59:17:536 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_Bloom.fx".
+16:59:17:573 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FXAA.fx".
+16:59:17:590 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_01A_RT_Correct_Contrast.fx".
+16:59:17:603 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_Godrays.fx".
+16:59:17:628 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_01B_RT_Correct_Color.fx".
+16:59:17:659 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_SSDO.fx" with warnings:
+warning: V__texNoise: another effect (PD80_01B_RT_Correct_Color.fx) already created a texture with the same name but different dimensions; textures are shared across all effects, so either rename the variable or adjust the dimensions so they match
+
+16:59:17:674 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Prism.fx".
+16:59:17:690 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\R57_PAL.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\R57_PAL.fx(105, 1): warning X4576: 'PS_PALR57': input parameter 'coords' semantic does not match vertex shader one
+
+16:59:17:722 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ReflectiveBumpMapping.fx".
+16:59:17:741 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_02_Bloom.fx".
+16:59:17:751 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx(85, 1): warning X4576: 'DownSample': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx(89, 1): warning X4576: 'UpSample': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:17:766 [01524] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx(73, 1): warning X4576: 'PS_ScanlinesAbs': input parameter 'tex' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx(73, 1): warning X4576: 'PS_ScanlinesAbs': input parameter 'angle' semantic does not match vertex shader one
+
+16:59:17:790 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_04_Contrast_Brightness_Saturation.fx".
+16:59:17:801 [01524] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Sepia.fx".
+16:59:17:844 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AmbientLight.fx".
+16:59:17:860 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Curves.fx".
+16:59:17:888 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ASCII.fx".
+16:59:17:895 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Daltonize.fx".
+16:59:17:903 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AspectRatio.fx".
+16:59:17:922 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Deband.fx".
+16:59:17:942 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Denoise.fx".
+16:59:18:001 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\GaussianBlur.fx".
+16:59:18:020 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Glitch.fx".
+16:59:18:059 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Bloom.fx".
+16:59:18:102 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Border.fx".
+16:59:18:114 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Cartoon.fx".
+16:59:18:118 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Depth3D.fx".
+16:59:18:131 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Chromakey.fx".
+16:59:18:144 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ChromaticAberration.fx".
+16:59:18:195 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Pirate\Pirate_Bloom.fx".
+16:59:18:244 [01568] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(358, 1): warning X4576: 'PS_BloomPrepass': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(367, 2): warning X4576: 'PS_Downsample1': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(368, 2): warning X4576: 'PS_Downsample2': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(369, 2): warning X4576: 'PS_Downsample3': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(370, 2): warning X4576: 'PS_Downsample4': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(371, 2): warning X4576: 'PS_Downsample5': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(372, 2): warning X4576: 'PS_Downsample6': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(373, 2): warning X4576: 'PS_Downsample7': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(375, 1): warning X4576: 'PS_AdaptStoreLast': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(384, 2): warning X4576: 'PS_Upsample1': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(385, 2): warning X4576: 'PS_Upsample2': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(386, 2): warning X4576: 'PS_Upsample3': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(387, 2): warning X4576: 'PS_Upsample4': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(388, 2): warning X4576: 'PS_Upsample5': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(389, 2): warning X4576: 'PS_Upsample6': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(391, 1): warning X4576: 'PS_Combine': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:18:259 [01568] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_sharp.fx".
+16:59:18:262 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CinematicDOF.fx".
+16:59:18:275 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\GTU.fx".
+16:59:18:286 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HeatHaze.fx".
+16:59:18:313 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HighPassSharpen.fx".
+16:59:18:332 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HQ4X.fx".
+16:59:18:350 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HSLShift.fx".
+16:59:18:363 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Layer.fx".
+16:59:18:375 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Levels.fx".
+16:59:18:378 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Clarity.fx".
+16:59:18:393 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DepthHaze.fx".
+16:59:18:412 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DisplayDepth.fx".
+16:59:18:459 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DOF.fx".
+16:59:18:460 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LevelsPlus.fx".
+16:59:18:472 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DPX.fx".
+16:59:18:479 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LiftGammaGain.fx".
+16:59:18:482 [06968] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx(24, 15): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx(25, 14): warning X3206: implicit truncation of vector type
+
+16:59:18:490 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\EGAfilter.fx".
+16:59:18:506 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LightDoF.fx".
+16:59:18:513 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ColorMatrix.fx".
+16:59:18:532 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LumaSharpen.fx".
+16:59:18:543 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Colourfulness.fx".
+16:59:18:553 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Emphasize.fx".
+16:59:18:561 [06968] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\crt-nes-mini.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\crt-nes-mini.fx(26, 1): warning X4576: 'PS_CRT_NESMINI': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:18:569 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LUT.fx".
+16:59:18:608 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRT.fx".
+16:59:18:635 [05100] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MagicBloom.fx".
+16:59:18:642 [05100] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCAmber.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCAmber.fx(20, 1): warning X4576: 'PS_MCAmber': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:18:643 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\EyeAdaption.fx".
+16:59:18:659 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FakeHDR.fx".
+16:59:18:675 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FakeMotionBlur.fx".
+16:59:18:690 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmGrain.fx".
+16:59:18:711 [09060] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmGrain2.fx".
+16:59:18:713 [06968] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTAperture.fx".
+16:59:18:728 [06968] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTCaligari.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTCaligari.fx(166, 1): warning X4576: 'PS_CRTCaligari': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:18:745 [06968] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(87, 14): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(88, 15): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(108, 16): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(108, 32): warning X3206: implicit truncation of vector type
+
+16:59:23:285 [09828] | INFO  | Redirecting IDirect3DDevice9::Reset(this = 0F73B078, pPresentationParameters = 713AB77C) ...
+16:59:23:285 [09828] | INFO  | > Dumping presentation parameters:
+16:59:23:285 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:23:285 [09828] | INFO  |   | Parameter                               | Value                                   |
+16:59:23:285 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:23:285 [09828] | INFO  |   | BackBufferWidth                         | 2048                                    |
+16:59:23:285 [09828] | INFO  |   | BackBufferHeight                        | 858                                     |
+16:59:23:286 [09828] | INFO  |   | BackBufferFormat                        | 22                                      |
+16:59:23:286 [09828] | INFO  |   | BackBufferCount                         | 1                                       |
+16:59:23:286 [09828] | INFO  |   | MultiSampleType                         | 0                                       |
+16:59:23:286 [09828] | INFO  |   | MultiSampleQuality                      | 0                                       |
+16:59:23:286 [09828] | INFO  |   | SwapEffect                              | 1                                       |
+16:59:23:286 [09828] | INFO  |   | DeviceWindow                            | 00060446                                |
+16:59:23:286 [09828] | INFO  |   | Windowed                                | FALSE                                   |
+16:59:23:286 [09828] | INFO  |   | EnableAutoDepthStencil                  | FALSE                                   |
+16:59:23:286 [09828] | INFO  |   | AutoDepthStencilFormat                  | 0                                       |
+16:59:23:286 [09828] | INFO  |   | Flags                                   | 0                                       |
+16:59:23:286 [09828] | INFO  |   | FullScreen_RefreshRateInHz              | 0                                       |
+16:59:23:286 [09828] | INFO  |   | PresentationInterval                    | 0x80000000                              |
+16:59:23:286 [09828] | INFO  |   +-----------------------------------------+-----------------------------------------+
+16:59:23:300 [09828] | INFO  | Destroyed runtime environment on runtime 0F6F83B0.
+16:59:23:434 [09828] | INFO  | Recreated runtime environment on runtime 0F6F83B0.
+16:59:23:460 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\3DFX.fx".
+16:59:23:472 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AdaptiveFog.fx".
+16:59:23:592 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTEasymode.fx".
+16:59:23:623 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTGeom.fx".
+16:59:23:643 [09964] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTHyllian.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTHyllian.fx(305, 1): warning X4576: 'PS_CRTHyllian': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:23:690 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AdaptiveSharpen.fx".
+16:59:23:718 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AmbientLight.fx".
+16:59:23:741 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ASCII.fx".
+16:59:23:749 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\AspectRatio.fx".
+16:59:23:767 [09964] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTLottes.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTLottes.fx(334, 1): warning X4576: 'PS_CRTLottes': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:23:780 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Curves.fx".
+16:59:23:786 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Daltonize.fx".
+16:59:23:804 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Deband.fx".
+16:59:23:816 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Denoise.fx".
+16:59:23:852 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Depth3D.fx".
+16:59:23:865 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DepthHaze.fx".
+16:59:23:875 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DisplayDepth.fx".
+16:59:23:915 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DOF.fx".
+16:59:23:924 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\DPX.fx".
+16:59:23:928 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\EGAfilter.fx".
+16:59:23:939 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Emphasize.fx".
+16:59:23:952 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\EyeAdaption.fx".
+16:59:23:971 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Bloom.fx".
+16:59:23:980 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Border.fx".
+16:59:23:989 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Cartoon.fx".
+16:59:24:005 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FakeHDR.fx".
+16:59:24:015 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FakeMotionBlur.fx".
+16:59:24:024 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmGrain.fx".
+16:59:24:039 [09964] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmGrain2.fx".
+16:59:24:056 [10024] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicAnamorphSharpen.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicAnamorphSharpen.fx(226, 1): warning X4576: 'FilmicAnamorphSharpenPS': input parameter 'UvCoord' semantic does not match vertex shader one
+
+16:59:24:074 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FilmicPass.fx".
+16:59:24:103 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FineSharp.fx".
+16:59:24:140 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Chromakey.fx".
+16:59:24:147 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ChromaticAberration.fx".
+16:59:24:187 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CinematicDOF.fx".
+16:59:24:204 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCGreen.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCGreen.fx(20, 1): warning X4576: 'PS_MCGreen': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:208 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCOrange.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCOrange.fx(20, 1): warning X4576: 'PS_MCOrange': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:215 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Monochrome.fx".
+16:59:24:223 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MultiLUT.fx".
+16:59:24:247 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MXAO.fx".
+16:59:24:251 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NightVision.fx".
+16:59:24:273 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Nostalgia.fx".
+16:59:24:287 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ntsc.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ntsc.fx(168, 1): warning X4576: 'PS_NTSC': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:316 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(144, 8): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(409, 1): warning X4576: 'NTSCEncodePS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(418, 1): warning X4576: 'NTSCDecodePS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(424, 1): warning X4576: 'NTSCGaussPS': input parameter 'texcoord' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\NTSC_RetroArch.fx(430, 1): warning X4576: 'NTSCFinalPS': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:339 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PAL.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PAL.fx(249, 1): warning X4576: 'PS_PAL': input parameter 'texCoord' semantic does not match vertex shader one
+
+16:59:24:357 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PerfectPerspective.fx".
+16:59:24:385 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_Bloom.fx".
+16:59:24:394 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_Godrays.fx".
+16:59:24:452 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\SMAA.fx".
+16:59:24:462 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Splitscreen.fx".
+16:59:24:469 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\StageDepth.fx".
+16:59:24:534 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PPFX_SSDO.fx".
+16:59:24:543 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Prism.fx".
+16:59:24:549 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\R57_PAL.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\R57_PAL.fx(105, 1): warning X4576: 'PS_PALR57': input parameter 'coords' semantic does not match vertex shader one
+
+16:59:24:574 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ReflectiveBumpMapping.fx".
+16:59:24:579 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx(85, 1): warning X4576: 'DownSample': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Resolutionizer.fx(89, 1): warning X4576: 'UpSample': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:24:583 [07076] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx(73, 1): warning X4576: 'PS_ScanlinesAbs': input parameter 'tex' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\scanlines-abs.fx(73, 1): warning X4576: 'PS_ScanlinesAbs': input parameter 'angle' semantic does not match vertex shader one
+
+16:59:24:589 [07076] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Sepia.fx".
+16:59:24:610 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\FXAA.fx".
+16:59:24:635 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\GaussianBlur.fx".
+16:59:24:651 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Glitch.fx".
+16:59:24:703 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Clarity.fx".
+16:59:24:710 [09736] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx(24, 15): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CnCUIskip.fx(25, 14): warning X3206: implicit truncation of vector type
+
+16:59:24:716 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\ColorMatrix.fx".
+16:59:24:726 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Colourfulness.fx".
+16:59:24:729 [09736] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\crt-nes-mini.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\crt-nes-mini.fx(26, 1): warning X4576: 'PS_CRT_NESMINI': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:757 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRT.fx".
+16:59:24:781 [09736] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTAperture.fx".
+16:59:24:795 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\GTU.fx".
+16:59:24:802 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HeatHaze.fx".
+16:59:24:823 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HighPassSharpen.fx".
+16:59:24:838 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HQ4X.fx".
+16:59:24:851 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\HSLShift.fx".
+16:59:24:858 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Layer.fx".
+16:59:24:866 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Levels.fx".
+16:59:24:880 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LevelsPlus.fx".
+16:59:24:887 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LiftGammaGain.fx".
+16:59:24:890 [09736] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTCaligari.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTCaligari.fx(166, 1): warning X4576: 'PS_CRTCaligari': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:901 [09736] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(87, 14): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(88, 15): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(108, 16): warning X3206: implicit truncation of vector type
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\CRTcgwg.fx(108, 32): warning X3206: implicit truncation of vector type
+
+16:59:24:921 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LightDoF.fx".
+16:59:24:935 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LumaSharpen.fx".
+16:59:24:941 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\LUT.fx".
+16:59:24:969 [10024] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MagicBloom.fx".
+16:59:24:972 [10024] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCAmber.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\MCAmber.fx(20, 1): warning X4576: 'PS_MCAmber': input parameter 'texcoord' semantic does not match vertex shader one
+
+16:59:24:987 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\SurfaceBlur.fx".
+16:59:24:994 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Technicolor.fx".
+16:59:25:001 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Technicolor2.fx".
+16:59:25:012 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\TiltShift.fx".
+16:59:25:020 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Tonemap.fx".
+16:59:25:026 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\TriDither.fx".
+16:59:25:032 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\UIDetect.fx".
+16:59:25:039 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\UIMask.fx".
+16:59:25:046 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Vibrance.fx".
+16:59:25:057 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Vignette.fx".
+16:59:25:077 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_01A_RT_Correct_Contrast.fx".
+16:59:25:098 [09984] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_01B_RT_Correct_Color.fx" with warnings:
+warning: V__texNoise: another effect (PPFX_SSDO.fx) already created a texture with the same name but different dimensions; textures are shared across all effects, so either rename the variable or adjust the dimensions so they match
+
+16:59:25:123 [09984] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_02_Bloom.fx" with warnings:
+warning: V__texNoise: another effect (PPFX_SSDO.fx) already created a texture with the same name but different dimensions; textures are shared across all effects, so either rename the variable or adjust the dimensions so they match
+
+16:59:25:154 [09984] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\PD80\PD80_04_Contrast_Brightness_Saturation.fx" with warnings:
+warning: V__texNoise: another effect (PPFX_SSDO.fx) already created a texture with the same name but different dimensions; textures are shared across all effects, so either rename the variable or adjust the dimensions so they match
+
+16:59:25:164 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\Pirate\Pirate_Bloom.fx".
+16:59:25:198 [09984] | WARN  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx" with warnings:
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(358, 1): warning X4576: 'PS_BloomPrepass': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(367, 2): warning X4576: 'PS_Downsample1': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(368, 2): warning X4576: 'PS_Downsample2': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(369, 2): warning X4576: 'PS_Downsample3': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(370, 2): warning X4576: 'PS_Downsample4': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(371, 2): warning X4576: 'PS_Downsample5': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(372, 2): warning X4576: 'PS_Downsample6': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(373, 2): warning X4576: 'PS_Downsample7': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(375, 1): warning X4576: 'PS_AdaptStoreLast': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(384, 2): warning X4576: 'PS_Upsample1': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(385, 2): warning X4576: 'PS_Upsample2': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(386, 2): warning X4576: 'PS_Upsample3': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(387, 2): warning X4576: 'PS_Upsample4': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(388, 2): warning X4576: 'PS_Upsample5': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(389, 2): warning X4576: 'PS_Upsample6': input parameter 'uv' semantic does not match vertex shader one
+C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx(391, 1): warning X4576: 'PS_Combine': input parameter 'uv' semantic does not match vertex shader one
+
+16:59:25:208 [09984] | INFO  | Successfully loaded "C:\TW_Warzone_Fin.1\TW Warzone Fin\reshade-shaders\Shaders\qUINT\qUINT_sharp.fx".
+16:59:35:492 [07520] | INFO  | Loading image files for textures ...
+16:59:35:807 [07520] | INFO  | Resizing image data for texture 'V__lensDBTex' from 1024x576 to 1920x1080 ...
+16:59:36:038 [07520] | INFO  | Resizing image data for texture 'V__lensDB2Tex' from 1024x576 to 1920x1080 ...
+16:59:36:431 [07520] | INFO  | Resizing image data for texture 'V__texDirt' from 1024x576 to 1920x1080 ...
+16:59:36:736 [07520] | INFO  | Resizing image data for texture 'V__tMagicBloom_Dirt' from 1024x576 to 2048x858 ...
+16:59:57:345 [09828] | INFO  | Redirecting RegisterClassA(lpWndClass = 04AEE6BC { ComboDropWin }) ...
+16:59:57:345 [09828] | INFO  | > Adding 'CS_OWNDC' window class style flag to 'ComboDropWin'.
+17:00:13:783 [09828] | INFO  | Destroyed runtime environment on runtime 0F6F83B0.
+17:00:14:026 [09828] | INFO  | Exiting ...
+17:00:14:026 [09828] | INFO  | Uninstalling 36 hook(s) ...
+17:00:14:047 [09828] | INFO  | Finished exiting.

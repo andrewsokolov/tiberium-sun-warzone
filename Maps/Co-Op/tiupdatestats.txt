@@ -1,0 +1,1 @@
+This file is accessed by the TI Client every time it checks for updates. It is only for statistical purposes; no personal information about the system accessing the client is stored (except the IP address, which is obviously given anyway when you're accessing this file).

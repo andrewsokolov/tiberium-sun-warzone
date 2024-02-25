@@ -1,0 +1,739 @@
+MillisecondTimerClass low = 7044641, high = 7266536
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+GetCDClass constructor
+CD drive found - D:
+1448-152
+1449-76
+1450-76
+1451-3528
+1452-888
+1453-1152
+1454-216
+1455-264
+1456-496
+1457-120
+1458-792
+1459-2232
+1460-208
+1461-360
+1462-168
+1463-96
+1464-69200
+1465-184
+1466-904
+1467-1208
+1468-24
+1469-7468
+1470-3528
+1471-80
+1472-328
+1473-80
+1474-308
+1475-156
+1476-140
+1477-176
+1478-124
+1479-340
+1480-52
+1481-124
+1482-108
+1483-40
+1484-896
+1485-1264
+1486-7760
+1487-168
+1488-56
+1489-432
+1490-4032
+1491-800
+1492-1
+1493-544
+1494-124
+1495-108
+1496-8
+1497-24
+1498-8
+1499-8
+1500-16
+1501-32
+1502-24
+Create AppMutex okay.
+Create AutoPlayMutex.
+Got AutoPlayMutex okay.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 172497 Mb
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Audio timer resolution is 10 milliseconds
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 2048x858x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1880x858) VRAM
+TileSurface (1880x858) VRAM
+SidebarSurface (168x858) VRAM
+HiddenSurface (2048x858) VRAM
+AlternateSurface (2048x858) VRAM
+Calc_Confining_Rect(0,0,2048,858)
+Capture_Mouse()
+Main_Game
+Init Game
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+Bootstrap..... EXPAND80.MIX EXPAND77.MIX EXPAND70.MIX EXPAND55.MIX EXPAND00.MIX ECACHE80.MIX ECACHE78.MIX ECACHE77.MIX ECACHE76.MIX ECACHE75.MIX ECACHE74.MIX ECACHE73.MIX ECACHE72.MIX ECACHE71.MIX ECACHE61.MIX ECACHE60.MIX ECACHE31.MIX ECACHE01.MIX ECACHE00.MIX CACHE.MIX CACHE.MIX LOCAL.MIX ...OK
+Init Mouse
+Init CDROM
+-CD parameter was specified. No CD init - all files must be local
+Init Secondary Mixfiles..... CONQUER.MIX CACHE.MIX MULTI.MIX SOUNDS01.MIX SOUNDS.MIX SCORES.MIX SCORES01.MIX MOVIES01.MIX MOVIES02.MIX MOVIES03.MIX ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+--------- Loading SUN.INI settings ---------------
+GameSpeed = 0
+Difficulty = 1
+ScrollMethod = 0
+ScrollRate = 3
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ToolTips are ON
+Resolution = 2048 X 858
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,16,1880,842)
+Deleting ZBuffer
+Allocating ZBuffer (1880x842)
+Deleting ABuffer
+Allocating ABuffer (1880x842)
+MessageListClass::Init(Width: 1872)
+MessageListClass::Set_Width(1872)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 172497 Mb
+Session one time init. UniqueID is f194f4dd
+Reading SOUND.INI
+Reading THEME.INI
+Init Rules
+Init random number
+Seed is 015a635a
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 04AEF460
+ExceptionReturnAddress = 004629A7
+Unable to locate scenario DUEL.MAP - No digest info will be loaded
+Unable to locate scenario FLOAT.MAP - No digest info will be loaded
+Unable to locate scenario TIERS.MAP - No digest info will be loaded
+Unable to locate scenario SPRINGS.MAP - No digest info will be loaded
+Unable to locate scenario 2TEMP7.MAP - No digest info will be loaded
+Unable to locate scenario PERMFRST.MAP - No digest info will be loaded
+Unable to locate scenario 1LWORLD7.MAP - No digest info will be loaded
+Unable to locate scenario 3TWEAK10.MAP - No digest info will be loaded
+Unable to locate scenario XCAPADES.MAP - No digest info will be loaded
+Unable to locate scenario CITYSCAP.MAP - No digest info will be loaded
+Unable to locate scenario NARROW.MAP - No digest info will be loaded
+Unable to locate scenario 1ICE6.MAP - No digest info will be loaded
+Unable to locate scenario DRAWBRID.MAP - No digest info will be loaded
+Unable to locate scenario RIVRRAD4.MAP - No digest info will be loaded
+Init random number
+Seed is 6a486b6e
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+About to open a UDP socket
+About to bind the UDP socket
+About to query the host name
+About to call gethostbyname
+Found local address: 192.168.178.64
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 9
+
+----- Starting scnenario: spawnmap.ini -----
+Player Count: 2
+Reading scenario: spawnmap.ini
+Scen->IsRandom = false
+Setting addresses for UDP broadcast
+Adding broadcast address 1.0.0.0
+Read_Scenario_INI - Filename is spawnmap.ini
+Clearing old scenario
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Creating new tactical map
+Initializing Theater
+Init theater TEMPERATE
+Calling Prep_For_Side()
+Preparing Mixfiles for Side 01.
+     Initializing E01SC02.MIX
+     Initializing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+Initializeing Rules
+Processing sides.
+Side 0: GDI 
+  GDI
+Side 1: Nod 
+  Nod
+Side 2: Civilian 
+  Neutral
+Side 3: Mutant 
+  Special
+Processing sides.
+Calling Prep_Speech_For_Side()
+ E01VOX02.MIX     Initilizing SPEECH02.MIX
+Calling Scen->Read_Global_INI(*RuleINI);
+Calling Rule->Addition() with scenario overrides
+Processing sides.
+Finished Rule->Addition() with scenario overrides
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Loaded 277 isometric tiles consuming 1223 Kb
+Demand loading image for Tiberium Veins
+Creating 0 units - Random seed is 0000004a
+UniqueID is 000fbf90
+Multiplayer start waypoint found at cell 28,106
+Multiplayer start waypoint found at cell 54,131
+Multiplayer start waypoint found at cell 80,158
+Multiplayer start waypoint found at cell 94,35
+Multiplayer start waypoint found at cell 139,64
+Multiplayer start waypoint found at cell 166,103
+Generating units for house 0 (Nod)
+Generating units for house 1 (Nod)
+Generating units for house 2 (GDI)
+Generating units for house 3 (GDI)
+Generating units for house 4 (GDI)
+Generating units for house 5 (Nod)
+Finished unit generation. Random number is 48640
+Demand loading image for CAARAY_A
+Demand loading image for CAARAY_B
+Demand loading image for CAARAY_CD
+Demand loading image for CAARAY_DD
+MessageListClass::Init(Width: 1872)
+Received progress message - 2% from steamuser
+Received progress message - 7% from steamuser
+Received progress message - 7% from steamuser
+Received progress message - 11% from steamuser
+Received progress message - 12% from steamuser
+Received progress message - 13% from steamuser
+Received progress message - 14% from steamuser
+Received progress message - 15% from steamuser
+Received progress message - 16% from steamuser
+Received progress message - 17% from steamuser
+Received progress message - 18% from steamuser
+Received progress message - 19% from steamuser
+Received progress message - 20% from steamuser
+Received progress message - 21% from steamuser
+Received progress message - 22% from steamuser
+Received progress message - 23% from steamuser
+Received progress message - 25% from steamuser
+Received progress message - 25% from steamuser
+Received progress message - 27% from steamuser
+Received progress message - 29% from steamuser
+Received progress message - 34% from steamuser
+Received progress message - 44% from steamuser
+Received progress message - 50% from steamuser
+Received progress message - 54% from steamuser
+Received progress message - 57% from steamuser
+Received progress message - 59% from steamuser
+Received progress message - 59% from steamuser
+Received progress message - 59% from steamuser
+Received progress message - 62% from steamuser
+Received progress message - 64% from steamuser
+Received progress message - 66% from steamuser
+Received progress message - 67% from steamuser
+Received progress message - 68% from steamuser
+Received progress message - 69% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 92% from steamuser
+Received progress message - 95% from steamuser
+Received progress message - 97% from steamuser
+Received progress message - 100% from steamuser
+Received progress message - 100% from steamuser
+Squad 1 = 
+Squad 2 = 
+Theme::QueueSong(-2)
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Entering Create_Connections
+Player 0, Name: asokolov, ID 1
+House[1] IP = FFFFFFFF  Clan=0
+Player 1, Name: steamuser, ID 0
+House[0] IP = 1000000  Clan=5259597
+Leaving Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 49
+Theme::AI(Next song = 12)
+Theme::PlaySong(12) - Playing
+Tooltips are on.
+Radar: TacticalMap availability is on
+Radar: ACTIVATING
+Response time = 1
+IPX Manager: RetryDelta = 11
+MaxAhead is 49
+Adding event PRODUCE
+Response time = 1
+IPX Manager: RetryDelta = 11
+MaxAhead is 49
+Writing sync data to file SYNC1.TXT
+Frame == 259
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 318
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 259
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 212
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 259
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 265
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 259
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 216
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+TS: Computing font metrics....
+Error - Connection 0 has gone bad
+Capture_Mouse()
+Adding event REMOVEPLAYER
+Writing sync data to file SYNC1.TXT
+Frame == 266
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 306
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 266
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 204
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 266
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 255
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 266
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 204
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 273
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 287
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 273
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 192
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 273
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 245
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 273
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 196
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 280
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 273
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 280
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 184
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 280
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 230
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 280
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 188
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 287
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 259
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 287
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 176
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 287
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 220
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 287
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 176
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 294
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 238
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 294
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 164
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 294
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 210
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 294
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 168
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 301
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 224
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 301
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 156
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 301
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 192
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 301
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 160
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Writing sync data to file SYNC1.TXT
+Frame == 308
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 210
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002652
+ID	= 1033466
+Frame == 308
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 148
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002668
+ID	= 1033468
+Frame == 308
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 180
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002660
+ID	= 1033470
+Frame == 308
+QueuedObjects.Count() == 0
+Object->RTTI == 6
+Object->HeapID == 0
+IsSuspended	= 0
+IsDifferent	= 1
+Balance	= 148
+OriginalBalance = 0
+SpecialItem	= -1
+House->Fetch_ID()	= 1002676
+ID	= 1033472
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Packet received too late!
+--------- Event data: -------------------
+Type:       TIMING
+Frame:      308
+ID:         0
+MaxAhead=49
+Frame=315
+FrameSendRate=7
+Release_Mouse()
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Capture_Mouse()
+Failure executing DoList
+Sending game results.  SawCompletion=1
+Tooltips are off.
+Game loop finished. Average FPS = 31
+Release_Mouse()
+MessageListClass::Init(Width: 632)

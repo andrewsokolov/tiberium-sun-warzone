@@ -1,0 +1,122 @@
+[INISystem]
+BasedOn=freezingly_desperate_grip_hard.map
+
+[TaskForces]
+0=01000000
+1=01000001
+2=01000035
+3=01000037
+4=01000053
+5=01000054
+6=01000060
+7=01000062
+8=01000113
+9=01000114
+10=01000138
+11=01000167
+12=01000189
+13=01000196
+14=01000201
+CR1=RANG-CRTaskForce
+CR2=1TNK-CRTaskForce
+CR3=2TNK-CRTaskForce
+
+[01000000]
+0=1,YAK
+Name=1 YAK
+Group=-1
+
+[01000001]
+0=1,MIG
+Name=1 MIG
+Group=-1
+
+[01000035]
+0=5,AI3TNK
+Name=10 Heavy tanks
+Group=-1
+
+[01000037]
+0=5,E3S
+Name=6 E3s
+Group=-1
+
+[01000053]
+0=2,AIV2RL
+Name=4 V2s
+Group=-1
+
+[01000054]
+0=1,AI4TNK
+1=2,AI4TNK2
+Name=4 Mammoth tanks
+Group=-1
+
+[01000060]
+0=3,E1S
+1=2,E2S
+2=2,E3S
+Name=Generic Infantry
+Group=-1
+
+[01000062]
+0=3,E4S
+Name=4 Flamethrower infantry
+Group=-1
+
+[01000113]
+0=1,VOLKOV
+1=10,SHOK
+Name=Volkov and Shock Troopers
+Group=-1
+
+[01000114]
+0=3,AITTNK
+Name=4 Tesla tanks
+Group=-1
+
+[01000138]
+0=6,SHOK
+Name=6 Shock troopers
+Group=-1
+
+[01000167]
+0=3,AI2TNK
+1=1,1TNK
+2=2,AIRANG
+Name=Chronoshifted reinfs
+Group=-1
+
+[01000189]
+0=1,HUNTSEEK1
+Name=A lonely hunter-seeker :'(
+Group=-1
+
+[01000196]
+0=2,AISHILKA
+Name=3 Gatling Tanks
+Group=-1
+
+[01000201]
+0=1,AIBEHEMOTH
+1=3,AI4TNK
+2=3,AI4TNK2
+Name=Behemoth
+Group=-1
+
+[RANG-CRTaskForce]
+0=1,AIRANG
+Name=Chrono RANG
+Group=-1
+
+[1TNK-CRTaskForce]
+0=1,1TNK
+Name=Chrono 1TNK
+Group=-1
+
+[2TNK-CRTaskForce]
+0=1,AI2TNK
+Name=Chrono 2TNK
+Group=-1
+
+

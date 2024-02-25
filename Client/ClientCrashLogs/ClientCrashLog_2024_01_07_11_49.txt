@@ -1,0 +1,461 @@
+07.01. 11:40:21.107    ***Logfile for C&C WarZone client***
+07.01. 11:40:21.124    Client version: 2.6.7.5
+07.01. 11:40:21.124    Loading settings.
+07.01. 11:40:21.504    Initializing updater.
+07.01. 11:40:21.519    Update mirror count: 1
+07.01. 11:40:21.519    Running from: clientdx.exe
+07.01. 11:40:21.519    Operating system: Microsoft Windows NT 6.2.9200.0
+07.01. 11:40:21.519    Selected OS profile: WIN810
+07.01. 11:40:21.582    Removing partial custom component downloads.
+07.01. 11:40:21.582    Checking for the existence of FinalSun.ini.
+07.01. 11:40:21.582    FinalSun settings file exists.
+07.01. 11:40:21.597    Writing installation path to the Windows registry.
+07.01. 11:40:21.613    Starting background processing of INI files.
+07.01. 11:40:21.629    /INI/Base does not exist, skipping background processing of INI files.
+07.01. 11:40:22.542    Initializing GameClass.
+07.01. 11:40:22.855    InitGraphicsMode: 1280x800
+07.01. 11:40:23.026    Checking local file versions.
+07.01. 11:40:23.035    Loading maps.
+07.01. 11:40:25.929    Attempting to parse INI/Battle.ini to populate mission list.
+07.01. 11:40:25.929    File INI/Battle.ini not found. Ignoring.
+07.01. 11:40:25.938    Attempting to parse INI/BattleFS.ini to populate mission list.
+07.01. 11:40:25.938    File INI/BattleFS.ini not found. Ignoring.
+07.01. 11:40:25.968    Attempting to parse INI\BattleRA2.ini to populate mission list.
+07.01. 11:40:25.994    Finished parsing INI\BattleRA2.ini.
+07.01. 11:40:26.027    Attempting to parse INI\BattleYR.ini to populate mission list.
+07.01. 11:40:26.027    File INI\BattleYR.ini not found. Ignoring.
+07.01. 11:40:26.056    Attempting to parse INI\BattleGEN.ini to populate mission list.
+07.01. 11:40:26.056    File INI\BattleGEN.ini not found. Ignoring.
+07.01. 11:40:26.094    Attempting to parse INI\BattleRotE.ini to populate mission list.
+07.01. 11:40:26.094    File INI\BattleRotE.ini not found. Ignoring.
+07.01. 11:40:26.125    Attempting to parse INI\Challenge.ini to populate mission list.
+07.01. 11:40:26.125    File INI\Challenge.ini not found. Ignoring.
+07.01. 11:40:26.302    Reading statistics.
+07.01. 11:40:27.107    AssetLoader.LoadSound: Sound not found! getready.wav
+07.01. 11:40:27.166    AssetLoader.LoadSound: Sound not found! getready.wav
+07.01. 11:40:27.166    AssetLoader.LoadSound: Sound not found! return.wav
+07.01. 11:40:27.512    AssetLoader.LoadSound: Sound not found! getready.wav
+07.01. 11:40:27.512    AssetLoader.LoadSound: Sound not found! return.wav
+07.01. 11:40:27.569    AssetLoader.LoadSound: Sound not found! getready.wav
+07.01. 11:40:27.993    CheckForUpdates()
+07.01. 11:40:28.003    Checking version on the server.
+07.01. 11:40:28.008    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+07.01. 11:40:28.224    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 8GB
+07.01. 11:40:30.359    Downloaded version information, parsing.
+07.01. 11:40:30.379    Server game version is 5.7.7, local version is 5.7.7
+07.01. 11:40:30.389    File identifiers updated.
+07.01. 11:40:30.389    Checking if custom components are outdated.
+07.01. 11:40:36.286    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:40:48.985    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:41:02.883    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:41:17.895    Creating LAN socket.
+07.01. 11:41:17.904    Starting listener.
+07.01. 11:41:17.970    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:41:24.300    New client connected from 127.0.0.1
+07.01. 11:41:24.469    Hash for Resources/FHCConfig.ini: 
+07.01. 11:41:24.469    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+07.01. 11:41:24.469    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+07.01. 11:41:24.469    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+07.01. 11:41:24.469    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+07.01. 11:41:24.469    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+07.01. 11:41:24.469    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+07.01. 11:41:24.469    Hash for spawner.xdp: 
+07.01. 11:41:24.469    Hash for rules.ini: 
+07.01. 11:41:24.469    Hash for ai.ini: 
+07.01. 11:41:24.469    Hash for art.ini: 
+07.01. 11:41:24.469    Hash for shroud.shp: 
+07.01. 11:41:24.479    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+07.01. 11:41:24.479    Hash for INI/Enhance.ini: 
+07.01. 11:41:24.483    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+07.01. 11:41:24.483    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+07.01. 11:41:24.483    Hash for INI/ArtE.ini: 
+07.01. 11:41:24.500    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+07.01. 11:41:24.500    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+07.01. 11:41:24.500    Hash for INI/AIE.ini: 
+07.01. 11:41:24.509    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+07.01. 11:41:24.519    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+07.01. 11:41:24.519    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+07.01. 11:41:24.519    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+07.01. 11:41:24.519    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+07.01. 11:41:24.519    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+07.01. 11:41:24.544    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+07.01. 11:41:24.549    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+07.01. 11:41:24.549    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+07.01. 11:41:24.549    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+07.01. 11:41:24.560    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+07.01. 11:41:24.583    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+07.01. 11:41:24.583    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+07.01. 11:41:24.583    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+07.01. 11:41:24.598    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+07.01. 11:41:24.600    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+07.01. 11:41:24.600    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+07.01. 11:41:24.600    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+07.01. 11:41:24.600    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+07.01. 11:41:24.600    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+07.01. 11:41:24.600    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+07.01. 11:41:24.624    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+07.01. 11:41:24.624    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+07.01. 11:41:24.624    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+07.01. 11:41:34.265    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:41:51.723    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:42:10.401    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:42:30.248    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:42:51.268    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:43:13.530    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:43:28.815    New client connected from 192.168.178.234
+07.01. 11:43:36.972    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:43:39.070    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:39.112    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:39.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.298    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.298    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.317    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.317    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.317    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.317    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.317    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:49.368    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:59.448    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:59.470    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:59.484    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:59.484    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:43:59.552    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:01.581    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:44:09.686    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.686    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.718    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.718    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.718    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.718    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.718    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:09.786    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.921    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:19.937    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:20.001    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:27.377    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:44:30.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.189    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.206    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:30.248    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.386    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.405    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.418    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.418    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.418    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.418    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.418    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:40.491    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.616    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.690    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:50.704    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:44:54.370    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:45:00.765    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:00.786    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:00.786    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:00.836    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:10.899    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:10.931    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:10.931    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:11.021    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.154    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:21.239    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:22.549    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:45:31.387    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.417    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.438    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:31.523    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:41.532    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:41.570    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.648    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.702    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.702    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.702    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.702    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.768    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:45:51.925    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:45:55.511    Writing spawn.ini
+07.01. 11:45:55.532    Writing map.
+07.01. 11:45:55.541    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/MAPS\TIBERIAN SUN\STORMS.map
+07.01. 11:45:55.692    About to launch main game executable.
+07.01. 11:45:55.721    Writing settings INI.
+07.01. 11:45:55.731    Launch executable: game.exe
+07.01. 11:45:55.731    Launch arguments: -SPAWN
+07.01. 11:45:55.761    GameProcessLogic: Process started.
+07.01. 11:45:55.786    Waiting for qres.dat or game.exe to exit.
+07.01. 11:46:06.126    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:06.333    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:06.333    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:06.333    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:07.121    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:17.134    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:22.470    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:46:27.133    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:37.132    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:47.135    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:53.053    GameProcessLogic: Process exited.
+07.01. 11:46:53.164    GameProcessExited: Parsing statistics.
+07.01. 11:46:53.164    Parsing game statistics.
+07.01. 11:46:53.174    Attempting to read statistics from TS.LOG
+07.01. 11:46:53.174    GameProcessExited: Adding match to statistics.
+07.01. 11:46:53.174    Skipping adding match to statistics because the game was cancelled.
+07.01. 11:46:54.204    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:46:57.085    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:57.104    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:46:58.105    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:08.114    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:09.086    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:20.125    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:21.111    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:21.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:27.122    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:47:35.503    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.555    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:35.605    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:45.641    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:45.657    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:45.676    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:47:55.667    Writing spawn.ini
+07.01. 11:47:55.676    Writing map.
+07.01. 11:47:55.676    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/MAPS\TIBERIAN SUN\STORMS.map
+07.01. 11:47:55.811    About to launch main game executable.
+07.01. 11:47:55.820    Writing settings INI.
+07.01. 11:47:55.820    Launch executable: game.exe
+07.01. 11:47:55.820    Launch arguments: -SPAWN
+07.01. 11:47:55.836    GameProcessLogic: Process started.
+07.01. 11:47:55.846    Waiting for qres.dat or game.exe to exit.
+07.01. 11:48:01.241    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:48:06.308    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:06.308    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:06.308    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:07.311    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:17.305    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:25.667    GameProcessLogic: Process exited.
+07.01. 11:48:25.732    GameProcessExited: Parsing statistics.
+07.01. 11:48:25.732    Parsing game statistics.
+07.01. 11:48:25.732    Attempting to read statistics from TS.LOG
+07.01. 11:48:25.732    GameProcessExited: Adding match to statistics.
+07.01. 11:48:25.732    Skipping adding match to statistics because the game was cancelled.
+07.01. 11:48:27.145    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:27.219    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:28.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:28.239    Unknown LAN command from steamuser (192.168.178.234) : PING
+07.01. 11:48:29.886    Listener error: A blocking operation was interrupted by a call to WSACancelBlockingCall
+07.01. 11:48:29.896    Reading data from the server failed! Message: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+07.01. 11:48:30.656    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+07.01. 11:48:36.600    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:49:01.899    Writing settings INI.
+07.01. 11:49:04.089    Creating LAN socket.
+07.01. 11:49:04.089    Starting listener.
+07.01. 11:49:07.560    New client connected from 127.0.0.1
+07.01. 11:49:07.592    Hash for Resources/FHCConfig.ini: 
+07.01. 11:49:07.600    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+07.01. 11:49:07.600    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+07.01. 11:49:07.600    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+07.01. 11:49:07.600    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+07.01. 11:49:07.600    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+07.01. 11:49:07.600    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+07.01. 11:49:07.600    Hash for spawner.xdp: 
+07.01. 11:49:07.600    Hash for rules.ini: 
+07.01. 11:49:07.600    Hash for ai.ini: 
+07.01. 11:49:07.600    Hash for art.ini: 
+07.01. 11:49:07.600    Hash for shroud.shp: 
+07.01. 11:49:07.604    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+07.01. 11:49:07.604    Hash for INI/Enhance.ini: 
+07.01. 11:49:07.604    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+07.01. 11:49:07.608    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+07.01. 11:49:07.608    Hash for INI/ArtE.ini: 
+07.01. 11:49:07.609    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+07.01. 11:49:07.609    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+07.01. 11:49:07.609    Hash for INI/AIE.ini: 
+07.01. 11:49:07.609    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+07.01. 11:49:07.609    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+07.01. 11:49:07.609    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+07.01. 11:49:07.609    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+07.01. 11:49:07.609    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+07.01. 11:49:07.609    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+07.01. 11:49:07.609    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+07.01. 11:49:07.609    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+07.01. 11:49:07.609    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+07.01. 11:49:07.609    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+07.01. 11:49:07.609    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+07.01. 11:49:07.609    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+07.01. 11:49:07.609    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+07.01. 11:49:07.609    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+07.01. 11:49:07.609    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+07.01. 11:49:07.609    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+07.01. 11:49:07.609    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+07.01. 11:49:07.609    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+07.01. 11:49:07.609    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+07.01. 11:49:07.620    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+07.01. 11:49:07.620    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+07.01. 11:49:07.620    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+07.01. 11:49:13.126    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+07.01. 11:49:40.964    New client connected from 192.168.178.234
+07.01. 11:49:41.124    KABOOOOOOM!!! Info:
+07.01. 11:49:41.124    Message: Exception has been thrown by the target of an invocation.
+07.01. 11:49:41.154    Source: mscorlib
+07.01. 11:49:41.154    TargetSite.Name: InvokeMethod
+07.01. 11:49:41.154    Stacktrace:    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)
+07.01. 11:49:41.154    InnerException info:
+07.01. 11:49:41.154    Message: Object reference not set to an instance of an object.
+07.01. 11:49:41.154    Stacktrace:    at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.HandleFileHashCommand(String sender, String fileHash)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.CommandHandlers.StringCommandHandler.Handle(String sender, String message)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.HandleClientMessage(String data, LANPlayerInfo lpInfo)

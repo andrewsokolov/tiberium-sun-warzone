@@ -1,0 +1,12 @@
+7336 14:25:45.774 Process path: C:\TW_Warzone_Fin.1\TW Warzone Fin\game.exe
+7336 14:25:45.774 Environment variable __COMPAT_LAYER = "HighDpiAware"
+7336 14:25:45.774 Loading DDrawCompat from C:\TW_Warzone_Fin.1\TW Warzone Fin\DDRAW.dll
+7336 14:25:45.799 DDrawCompat loaded successfully
+7336 14:25:45.954 Installing registry hooks
+7336 14:25:45.955 Installing Direct3D driver hooks
+7336 14:25:45.955 Installing DirectDraw hooks
+7336 14:25:45.969 Installing Direct3D hooks
+7336 14:25:45.987 Installing GDI hooks
+7336 14:25:46.000 Installing display mode hooks
+7336 14:25:46.001 Finished installing hooks
+7336 14:25:46.180 GDI used DC cache size: 1

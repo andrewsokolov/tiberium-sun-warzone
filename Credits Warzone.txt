@@ -1,0 +1,102 @@
+Mod Creator - Mircea Trif :mircea_new: 
+Game by Westwood Studios
+
+Programing:
+Main alteration - Mircea Trif
+XNA client integration - Kerbiter
+Code assistance - Lin Kuei Ominae
+Code assistance - ayyLMAO
+Code assistance - CCHyper
+Code troubleshooting - Tomsons26
+XNA client adviser - Rampastring
+XNA client adviser - CCHyper
+Code inspiration - Super Joe
+Code inspiration - Aro
+Code adviser - RyanUKAus
+Updater implementation - ayyLMAO
+AI coding - ayyLMAO
+
+Artist:
+Main art direction - Mircea Trif
+Art assistance - SCIPCION
+Environment - SCIPCION
+Decoration - Mig Eater
+Art Donation - Orac
+Art assets - Super Joe
+Art adviser - Crimsonum
+XTX assets - Team Black
+3D conversion to shp - AutoGavy
+3D conversion to shp - DaFool
+3D porting - AutoGavy
+
+-
+UI:
+Art design - Mircea Trif
+Art assets and adviser - Revolter Ocelot
+Art tweaks - Kerbiter
+Shader FX for sidebar - Tomsons26
+Shader FX for heat - ayylmao
+
+
+Unit Contributions:
+
+-SHPs-
+GDI moi titan - areaSZ
+Avatar - kenosis
+
+-Voxels-
+Nod voxels contributor - Azri_apoc
+Nod termite tank - Ever_Valiant
+Nod weed eater - Orac
+
+Audio:
+Audio Director - Mircea Trif
+Lead Sound Designer - Cak3Mat3
+Music composer - Cak3Mat3
+Audio effects - TayyBoye (Fuz)
+Audio effects - Cak3Mat3
+
+Music Tracks {Currently Are Place Holders!} 
+1. Compilerbau - Death In Space - 
+2. Ace Buchannon- Face Me
+3. Malicious Hardware - Ex Machina
+4. Devastation - Cyberthing!
+5. Alien Isolation - Main menu
+6. Escape From Antarctica - Oscillian
+7. Forbidden Scum - Misanthropix
+8. Gamma Breakdown · Compilerbau
+
+Maps:
+Design - Mircea Trif
+FinalSun - Holland
+Map decoration and fixes - TayyBoye (Fuz)
+Triggers - LucasSK
+Map contribution - Ever_Valiant
+
+Patreons:
+- your_evil_twin
+- Arn
+
+Supporters:
+- Bill Red
+- Cak3Mat3
+- Lightning
+- Lysander-Bekker
+- TayyBoye (Fuz)
+
+
+Performance and play testing:
+- sayedmamdouh (WowZone)
+- TayyBoye (Fuz)
+- Crimson Protocol
+- Rimtas04
+- Hamed-Elite
+- LucasSK
+- Tiberius
+- GreyWolf-Chan
+- Cak3Mat3
+- AutoGavy
+- ayylmao
+- Dominika
+- Lightning
+- Lysander-Bekker

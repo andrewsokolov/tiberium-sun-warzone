@@ -1,0 +1,1212 @@
+13.01. 10:25:36.659    ***Logfile for C&C WarZone client***
+13.01. 10:25:36.690    Client version: 2.6.7.5
+13.01. 10:25:36.690    Loading settings.
+13.01. 10:25:36.737    Initializing updater.
+13.01. 10:25:36.753    Update mirror count: 1
+13.01. 10:25:36.753    Running from: clientdx.exe
+13.01. 10:25:36.753    Operating system: Microsoft Windows NT 6.2.9200.0
+13.01. 10:25:36.753    Selected OS profile: WIN810
+13.01. 10:25:36.831    Removing partial custom component downloads.
+13.01. 10:25:36.831    Checking for the existence of FinalSun.ini.
+13.01. 10:25:36.831    FinalSun settings file exists.
+13.01. 10:25:36.831    Writing installation path to the Windows registry.
+13.01. 10:25:36.846    Starting background processing of INI files.
+13.01. 10:25:36.846    /INI/Base does not exist, skipping background processing of INI files.
+13.01. 10:25:37.227    Initializing GameClass.
+13.01. 10:25:37.526    InitGraphicsMode: 1280x800
+13.01. 10:25:37.682    Checking local file versions.
+13.01. 10:25:37.684    Loading maps.
+13.01. 10:25:38.971    Attempting to parse INI/Battle.ini to populate mission list.
+13.01. 10:25:38.971    File INI/Battle.ini not found. Ignoring.
+13.01. 10:25:38.975    Attempting to parse INI/BattleFS.ini to populate mission list.
+13.01. 10:25:38.975    File INI/BattleFS.ini not found. Ignoring.
+13.01. 10:25:39.005    Attempting to parse INI\BattleRA2.ini to populate mission list.
+13.01. 10:25:39.019    Finished parsing INI\BattleRA2.ini.
+13.01. 10:25:39.044    Attempting to parse INI\BattleYR.ini to populate mission list.
+13.01. 10:25:39.044    File INI\BattleYR.ini not found. Ignoring.
+13.01. 10:25:39.077    Attempting to parse INI\BattleGEN.ini to populate mission list.
+13.01. 10:25:39.077    File INI\BattleGEN.ini not found. Ignoring.
+13.01. 10:25:39.103    Attempting to parse INI\BattleRotE.ini to populate mission list.
+13.01. 10:25:39.103    File INI\BattleRotE.ini not found. Ignoring.
+13.01. 10:25:39.128    Attempting to parse INI\Challenge.ini to populate mission list.
+13.01. 10:25:39.128    File INI\Challenge.ini not found. Ignoring.
+13.01. 10:25:39.275    Reading statistics.
+13.01. 10:25:39.735    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 10:25:39.788    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 10:25:39.788    AssetLoader.LoadSound: Sound not found! return.wav
+13.01. 10:25:40.059    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 10:25:40.059    AssetLoader.LoadSound: Sound not found! return.wav
+13.01. 10:25:40.109    AssetLoader.LoadSound: Sound not found! getready.wav
+13.01. 10:25:40.385    CheckForUpdates()
+13.01. 10:25:40.394    Checking version on the server.
+13.01. 10:25:40.394    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+13.01. 10:25:41.897    Downloaded version information, parsing.
+13.01. 10:25:41.909    Server game version is 5.7.7, local version is 5.7.7
+13.01. 10:25:41.917    File identifiers updated.
+13.01. 10:25:41.917    Checking if custom components are outdated.
+13.01. 10:25:43.285    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 8GB
+13.01. 10:25:49.485    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:26:02.218    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:26:16.113    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:26:31.236    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:26:38.000    Creating LAN socket.
+13.01. 10:26:38.000    Starting listener.
+13.01. 10:26:44.948    New client connected from 127.0.0.1
+13.01. 10:26:44.978    Hash for Resources/FHCConfig.ini: 
+13.01. 10:26:44.978    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+13.01. 10:26:44.978    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+13.01. 10:26:44.978    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+13.01. 10:26:44.978    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+13.01. 10:26:44.978    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+13.01. 10:26:44.978    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+13.01. 10:26:44.978    Hash for spawner.xdp: 
+13.01. 10:26:44.978    Hash for rules.ini: 
+13.01. 10:26:44.978    Hash for ai.ini: 
+13.01. 10:26:44.978    Hash for art.ini: 
+13.01. 10:26:44.978    Hash for shroud.shp: 
+13.01. 10:26:44.983    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+13.01. 10:26:44.983    Hash for INI/Enhance.ini: 
+13.01. 10:26:44.983    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+13.01. 10:26:44.984    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+13.01. 10:26:44.984    Hash for INI/ArtE.ini: 
+13.01. 10:26:44.984    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+13.01. 10:26:44.984    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+13.01. 10:26:44.988    Hash for INI/AIE.ini: 
+13.01. 10:26:44.988    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+13.01. 10:26:44.989    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+13.01. 10:26:44.989    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+13.01. 10:26:44.989    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+13.01. 10:26:44.989    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+13.01. 10:26:44.989    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+13.01. 10:26:44.989    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+13.01. 10:26:44.989    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+13.01. 10:26:44.989    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+13.01. 10:26:44.989    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+13.01. 10:26:44.989    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+13.01. 10:26:44.989    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+13.01. 10:26:44.989    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+13.01. 10:26:44.989    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+13.01. 10:26:44.989    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+13.01. 10:26:44.989    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+13.01. 10:26:47.536    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:26:58.244    New client connected from 192.168.178.234
+13.01. 10:27:03.588    About to launch main game executable.
+13.01. 10:27:03.598    Writing settings INI.
+13.01. 10:27:03.629    Launch executable: game.exe
+13.01. 10:27:03.629    Launch arguments: -SPAWN
+13.01. 10:27:03.649    GameProcessLogic: Process started.
+13.01. 10:27:03.658    Waiting for qres.dat or game.exe to exit.
+13.01. 10:27:05.023    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:27:21.626    Socket error with client steamuser; removing. Message: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+13.01. 10:27:23.659    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:27:43.495    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:28:04.532    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:28:26.763    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:28:50.169    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:29:14.778    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:29:40.575    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:30:07.538    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:30:35.735    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:31:05.117    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:31:35.659    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:32:07.378    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:32:40.298    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:33:14.427    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:33:49.747    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:34:26.235    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:35:03.925    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:35:42.812    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:36:22.885    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:37:04.172    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:37:46.627    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:38:30.271    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:39:15.111    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:40:01.112    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:40:48.329    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:41:36.726    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:42:26.320    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:43:17.099    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:44:09.077    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:45:02.229    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:45:56.571    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:46:52.095    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:47:22.320    GameProcessLogic: Process exited.
+13.01. 10:47:22.420    The game crashed! Copying EXCEPT.TXT file.
+13.01. 10:47:22.434    Parsing game statistics.
+13.01. 10:47:22.439    Attempting to read statistics from TS.LOG
+13.01. 10:47:22.465    Creating empty statistics file.
+13.01. 10:47:22.469    Listener error: A blocking operation was interrupted by a call to WSACancelBlockingCall
+13.01. 10:47:22.469    Reading data from the server failed! Message: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+13.01. 10:47:22.481    Socket error with client asokolov; removing. Message: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall.
+13.01. 10:47:30.866    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+13.01. 10:47:32.256    Creating LAN socket.
+13.01. 10:47:32.256    Starting listener.
+13.01. 10:47:35.922    New client connected from 127.0.0.1
+13.01. 10:47:35.953    Hash for Resources/FHCConfig.ini: 
+13.01. 10:47:35.953    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+13.01. 10:47:35.953    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+13.01. 10:47:35.953    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+13.01. 10:47:35.953    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+13.01. 10:47:35.953    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+13.01. 10:47:35.953    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+13.01. 10:47:35.957    Hash for spawner.xdp: 
+13.01. 10:47:35.957    Hash for rules.ini: 
+13.01. 10:47:35.957    Hash for ai.ini: 
+13.01. 10:47:35.957    Hash for art.ini: 
+13.01. 10:47:35.957    Hash for shroud.shp: 
+13.01. 10:47:35.962    Hash for INI/Rules.ini: f1606ebe304d3a33f83f401acacdea211bf7dfd4
+13.01. 10:47:35.962    Hash for INI/Enhance.ini: 
+13.01. 10:47:35.962    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+13.01. 10:47:35.962    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+13.01. 10:47:35.962    Hash for INI/ArtE.ini: 
+13.01. 10:47:35.967    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+13.01. 10:47:35.969    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+13.01. 10:47:35.969    Hash for INI/AIE.ini: 
+13.01. 10:47:35.969    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+13.01. 10:47:35.969    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+13.01. 10:47:35.969    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+13.01. 10:47:35.969    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+13.01. 10:47:35.969    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+13.01. 10:47:35.969    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+13.01. 10:47:35.969    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+13.01. 10:47:35.969    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+13.01. 10:47:35.969    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+13.01. 10:47:35.969    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+13.01. 10:47:35.969    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+13.01. 10:47:35.969    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+13.01. 10:47:35.969    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+13.01. 10:47:35.969    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+13.01. 10:47:35.969    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+13.01. 10:47:35.977    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+13.01. 10:47:35.977    Complete hash: 1eb9759e5e74f2d1e6a85c1b1fb5e4a94fadf7ea
+13.01. 10:47:48.859    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:48:46.787    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:49:45.915    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:50:46.223    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:51:07.354    New client connected from 192.168.178.234
+13.01. 10:51:17.661    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.712    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:17.722    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:28.941    Writing spawn.ini
+13.01. 10:51:28.962    Writing map.
+13.01. 10:51:28.971    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/Maps/Custom\wz_8_icecliff.map
+13.01. 10:51:29.132    About to launch main game executable.
+13.01. 10:51:29.141    Writing settings INI.
+13.01. 10:51:29.142    Launch executable: game.exe
+13.01. 10:51:29.142    Launch arguments: -SPAWN
+13.01. 10:51:29.151    GameProcessLogic: Process started.
+13.01. 10:51:29.177    Waiting for qres.dat or game.exe to exit.
+13.01. 10:51:37.565    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:38.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:47.691    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:51:48.575    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:51:58.575    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:08.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:18.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:29.574    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:29.763    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:29.763    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:29.763    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:29.763    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:30.575    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:40.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:52:50.361    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:52:50.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:00.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:10.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:21.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:21.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:21.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:21.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:21.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:22.577    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:32.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:42.577    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:52.576    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:53:54.233    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:54:02.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:13.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:13.771    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:13.771    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:13.771    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:13.771    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:14.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:24.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:34.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:44.570    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:54.576    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:54:59.297    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:55:05.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:05.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:05.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:05.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:05.772    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:06.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:16.570    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:26.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:36.771    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:37.777    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:47.765    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:53.369    GameProcessLogic: Process exited.
+13.01. 10:55:53.595    GameProcessExited: Parsing statistics.
+13.01. 10:55:53.595    Parsing game statistics.
+13.01. 10:55:53.595    Attempting to read statistics from TS.LOG
+13.01. 10:55:53.595    GameProcessExited: Adding match to statistics.
+13.01. 10:55:53.595    Writing game info to statistics file.
+13.01. 10:55:53.595    Finished writing statistics.
+13.01. 10:55:57.591    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.642    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:57.647    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:58.596    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:55:58.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:05.564    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:56:08.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.592    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.658    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.658    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.658    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.658    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.658    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.662    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:19.666    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:20.610    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:20.676    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:31.730    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:31.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:31.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:31.764    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:31.833    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:37.523    Writing spawn.ini
+13.01. 10:56:37.523    Writing map.
+13.01. 10:56:37.523    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/Maps/Custom\wz_8_icecliff.map
+13.01. 10:56:37.683    About to launch main game executable.
+13.01. 10:56:37.683    Writing settings INI.
+13.01. 10:56:37.683    Launch executable: game.exe
+13.01. 10:56:37.683    Launch arguments: -SPAWN
+13.01. 10:56:37.703    GameProcessLogic: Process started.
+13.01. 10:56:37.713    Waiting for qres.dat or game.exe to exit.
+13.01. 10:56:48.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:48.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:48.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:49.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:56:59.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:09.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:13.011    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:57:19.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:29.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:40.167    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:40.167    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:40.168    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:40.168    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:40.168    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:41.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:57:51.167    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:01.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:11.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:21.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:21.651    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:58:32.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:32.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:32.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:32.163    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:32.163    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:33.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:43.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:58:53.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:03.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:13.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:24.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:24.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:24.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:24.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:24.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:25.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:31.474    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 10:59:35.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:45.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 10:59:55.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:05.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:16.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:16.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:16.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:16.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:16.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:17.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:27.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:37.174    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:42.481    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:00:47.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:00:57.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:08.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:08.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:08.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:08.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:08.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:09.163    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:19.170    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:29.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:39.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:49.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:01:53.501    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:02:00.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:00.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:00.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:00.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:00.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:01.166    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:11.158    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:21.161    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:31.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:41.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:52.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:52.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:52.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:52.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:52.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:02:53.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:03.160    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:04.531    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:03:13.166    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:23.162    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:33.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:44.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:44.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:44.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:44.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:44.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:45.174    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:03:55.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:05.166    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:15.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:15.539    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:04:25.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:36.172    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:36.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:36.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:36.351    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:36.352    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:37.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:47.164    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:04:57.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:07.173    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:17.159    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:26.561    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:05:28.168    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:28.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:28.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:28.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:28.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:29.169    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:39.165    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:49.171    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:05:59.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:00.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:10.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:20.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:30.368    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:37.569    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:06:41.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:41.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:41.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:41.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:42.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:42.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:06:52.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:02.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:12.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:22.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:33.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:33.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:33.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:33.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:33.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:34.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:44.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:07:48.576    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:07:54.368    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:04.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:14.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:25.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:25.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:25.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:25.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:25.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:26.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:36.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:46.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:50.166    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.168    Erasing previous MP saved games.
+13.01. 11:08:50.180    MP saved games succesfully erased.
+13.01. 11:08:50.180    Writing spawn.ini for saved game.
+13.01. 11:08:50.184    Renaming saved game.
+13.01. 11:08:50.186    Saved game SAVEGAME.NET succesfully renamed to SVGM_000.NET
+13.01. 11:08:50.186    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.186    Renaming saved game.
+13.01. 11:08:50.187    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.187    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.187    Renaming saved game.
+13.01. 11:08:50.187    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.187    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.187    Renaming saved game.
+13.01. 11:08:50.187    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.187    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.187    Renaming saved game.
+13.01. 11:08:50.188    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.188    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.188    Renaming saved game.
+13.01. 11:08:50.188    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.188    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.188    Renaming saved game.
+13.01. 11:08:50.188    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.188    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.188    Renaming saved game.
+13.01. 11:08:50.188    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.189    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.189    Renaming saved game.
+13.01. 11:08:50.189    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.189    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.189    Renaming saved game.
+13.01. 11:08:50.189    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.189    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.189    Renaming saved game.
+13.01. 11:08:50.189    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.190    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.190    Renaming saved game.
+13.01. 11:08:50.190    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.190    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.190    Renaming saved game.
+13.01. 11:08:50.190    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.190    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.190    Renaming saved game.
+13.01. 11:08:50.190    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.190    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.190    Renaming saved game.
+13.01. 11:08:50.191    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.191    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.191    Renaming saved game.
+13.01. 11:08:50.191    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.191    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.191    Renaming saved game.
+13.01. 11:08:50.191    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.191    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.191    Renaming saved game.
+13.01. 11:08:50.191    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.191    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.192    Renaming saved game.
+13.01. 11:08:50.192    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.192    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.192    Renaming saved game.
+13.01. 11:08:50.192    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.192    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.192    Renaming saved game.
+13.01. 11:08:50.192    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.193    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.193    Renaming saved game.
+13.01. 11:08:50.193    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.193    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.193    Renaming saved game.
+13.01. 11:08:50.193    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.193    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.193    Renaming saved game.
+13.01. 11:08:50.193    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.193    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.193    Renaming saved game.
+13.01. 11:08:50.193    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.194    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.194    Renaming saved game.
+13.01. 11:08:50.194    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.194    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.194    Renaming saved game.
+13.01. 11:08:50.194    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.194    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.194    Renaming saved game.
+13.01. 11:08:50.194    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.194    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.195    Renaming saved game.
+13.01. 11:08:50.195    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.195    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.195    Renaming saved game.
+13.01. 11:08:50.195    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.195    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.195    Renaming saved game.
+13.01. 11:08:50.195    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.195    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.195    Renaming saved game.
+13.01. 11:08:50.195    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.195    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.195    Renaming saved game.
+13.01. 11:08:50.196    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.196    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.196    Renaming saved game.
+13.01. 11:08:50.196    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.196    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.196    Renaming saved game.
+13.01. 11:08:50.196    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.196    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.196    Renaming saved game.
+13.01. 11:08:50.196    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.197    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.197    Renaming saved game.
+13.01. 11:08:50.197    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.197    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.197    Renaming saved game.
+13.01. 11:08:50.197    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.197    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.197    Renaming saved game.
+13.01. 11:08:50.197    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.197    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.198    Renaming saved game.
+13.01. 11:08:50.198    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.198    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.198    Renaming saved game.
+13.01. 11:08:50.198    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.198    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.198    Renaming saved game.
+13.01. 11:08:50.198    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.198    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.198    Renaming saved game.
+13.01. 11:08:50.198    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.198    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.199    Renaming saved game.
+13.01. 11:08:50.199    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.199    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.199    Renaming saved game.
+13.01. 11:08:50.199    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.199    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.199    Renaming saved game.
+13.01. 11:08:50.199    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.199    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.199    Renaming saved game.
+13.01. 11:08:50.200    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.200    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.200    Renaming saved game.
+13.01. 11:08:50.200    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.200    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.200    Renaming saved game.
+13.01. 11:08:50.200    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.200    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.200    Renaming saved game.
+13.01. 11:08:50.201    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.201    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.201    Renaming saved game.
+13.01. 11:08:50.201    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.201    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.201    Renaming saved game.
+13.01. 11:08:50.201    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.201    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.201    Renaming saved game.
+13.01. 11:08:50.201    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.202    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.202    Renaming saved game.
+13.01. 11:08:50.202    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.202    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.202    Renaming saved game.
+13.01. 11:08:50.202    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.202    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.202    Renaming saved game.
+13.01. 11:08:50.202    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.202    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.202    Renaming saved game.
+13.01. 11:08:50.203    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.203    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.203    Renaming saved game.
+13.01. 11:08:50.203    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.203    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.203    Renaming saved game.
+13.01. 11:08:50.203    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.203    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.203    Renaming saved game.
+13.01. 11:08:50.203    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.204    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.204    Renaming saved game.
+13.01. 11:08:50.204    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.204    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.204    Renaming saved game.
+13.01. 11:08:50.204    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.204    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.205    Renaming saved game.
+13.01. 11:08:50.205    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.205    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.205    Renaming saved game.
+13.01. 11:08:50.205    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.205    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.205    Renaming saved game.
+13.01. 11:08:50.205    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.205    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.205    Renaming saved game.
+13.01. 11:08:50.205    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.206    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.206    Renaming saved game.
+13.01. 11:08:50.206    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.206    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.206    Renaming saved game.
+13.01. 11:08:50.206    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.206    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.206    Renaming saved game.
+13.01. 11:08:50.206    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.206    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.206    Renaming saved game.
+13.01. 11:08:50.207    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.207    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.207    Renaming saved game.
+13.01. 11:08:50.207    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.207    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.207    Renaming saved game.
+13.01. 11:08:50.207    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.208    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.208    Renaming saved game.
+13.01. 11:08:50.208    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.208    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.208    Renaming saved game.
+13.01. 11:08:50.208    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.208    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.208    Renaming saved game.
+13.01. 11:08:50.208    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.209    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.209    Renaming saved game.
+13.01. 11:08:50.209    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.209    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.209    Renaming saved game.
+13.01. 11:08:50.209    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.209    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.209    Renaming saved game.
+13.01. 11:08:50.209    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.209    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.210    Renaming saved game.
+13.01. 11:08:50.210    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.210    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.210    Renaming saved game.
+13.01. 11:08:50.210    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.210    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.210    Renaming saved game.
+13.01. 11:08:50.210    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.210    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.210    Renaming saved game.
+13.01. 11:08:50.211    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.211    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.211    Renaming saved game.
+13.01. 11:08:50.211    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.211    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.211    Renaming saved game.
+13.01. 11:08:50.211    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.211    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.211    Renaming saved game.
+13.01. 11:08:50.211    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.211    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.211    Renaming saved game.
+13.01. 11:08:50.212    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.212    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.212    Renaming saved game.
+13.01. 11:08:50.212    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.212    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.212    Renaming saved game.
+13.01. 11:08:50.212    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.212    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.212    Renaming saved game.
+13.01. 11:08:50.212    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.212    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.213    Renaming saved game.
+13.01. 11:08:50.213    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.213    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.213    Renaming saved game.
+13.01. 11:08:50.213    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.213    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.213    Renaming saved game.
+13.01. 11:08:50.213    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.213    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.213    Renaming saved game.
+13.01. 11:08:50.213    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.213    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.213    Renaming saved game.
+13.01. 11:08:50.214    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.214    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.214    Renaming saved game.
+13.01. 11:08:50.214    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.214    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.214    Renaming saved game.
+13.01. 11:08:50.214    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.214    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.214    Renaming saved game.
+13.01. 11:08:50.214    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.214    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.214    Renaming saved game.
+13.01. 11:08:50.215    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.215    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.215    Renaming saved game.
+13.01. 11:08:50.215    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.215    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.215    Renaming saved game.
+13.01. 11:08:50.215    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.215    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.215    Renaming saved game.
+13.01. 11:08:50.215    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.215    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.216    Renaming saved game.
+13.01. 11:08:50.216    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.216    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.216    Renaming saved game.
+13.01. 11:08:50.216    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.216    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.216    Renaming saved game.
+13.01. 11:08:50.216    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.216    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.216    Renaming saved game.
+13.01. 11:08:50.216    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.217    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.217    Renaming saved game.
+13.01. 11:08:50.217    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.217    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.217    Renaming saved game.
+13.01. 11:08:50.217    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.217    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.217    Renaming saved game.
+13.01. 11:08:50.217    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.217    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.217    Renaming saved game.
+13.01. 11:08:50.218    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.218    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.218    Renaming saved game.
+13.01. 11:08:50.218    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.218    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.218    Renaming saved game.
+13.01. 11:08:50.218    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.218    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.218    Renaming saved game.
+13.01. 11:08:50.218    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.218    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.219    Renaming saved game.
+13.01. 11:08:50.219    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.219    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.219    Renaming saved game.
+13.01. 11:08:50.219    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.219    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.219    Renaming saved game.
+13.01. 11:08:50.219    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.219    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.219    Renaming saved game.
+13.01. 11:08:50.219    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.220    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.220    Renaming saved game.
+13.01. 11:08:50.220    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.220    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.220    Renaming saved game.
+13.01. 11:08:50.220    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.220    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.220    Renaming saved game.
+13.01. 11:08:50.220    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.220    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.220    Renaming saved game.
+13.01. 11:08:50.220    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.221    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.221    Renaming saved game.
+13.01. 11:08:50.221    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.221    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.221    Renaming saved game.
+13.01. 11:08:50.221    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.221    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.221    Renaming saved game.
+13.01. 11:08:50.222    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.222    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.222    Renaming saved game.
+13.01. 11:08:50.222    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.222    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.222    Renaming saved game.
+13.01. 11:08:50.222    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.222    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.222    Renaming saved game.
+13.01. 11:08:50.222    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.222    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.222    Renaming saved game.
+13.01. 11:08:50.223    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.223    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.223    Renaming saved game.
+13.01. 11:08:50.223    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.223    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.223    Renaming saved game.
+13.01. 11:08:50.223    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.223    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.223    Renaming saved game.
+13.01. 11:08:50.223    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.223    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.224    Renaming saved game.
+13.01. 11:08:50.224    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.224    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.224    Renaming saved game.
+13.01. 11:08:50.224    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.224    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.226    Renaming saved game.
+13.01. 11:08:50.226    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.226    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.226    Renaming saved game.
+13.01. 11:08:50.226    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.226    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.226    Renaming saved game.
+13.01. 11:08:50.226    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.226    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.226    Renaming saved game.
+13.01. 11:08:50.227    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.227    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.227    Renaming saved game.
+13.01. 11:08:50.227    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.227    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.227    Renaming saved game.
+13.01. 11:08:50.227    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.227    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.227    Renaming saved game.
+13.01. 11:08:50.227    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.227    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.227    Renaming saved game.
+13.01. 11:08:50.228    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.228    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.228    Renaming saved game.
+13.01. 11:08:50.228    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.228    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.228    Renaming saved game.
+13.01. 11:08:50.228    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.228    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.228    Renaming saved game.
+13.01. 11:08:50.229    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.229    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.229    Renaming saved game.
+13.01. 11:08:50.229    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.229    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.229    Renaming saved game.
+13.01. 11:08:50.229    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.229    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.229    Renaming saved game.
+13.01. 11:08:50.229    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.229    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.229    Renaming saved game.
+13.01. 11:08:50.230    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.230    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.230    Renaming saved game.
+13.01. 11:08:50.230    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.230    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.230    Renaming saved game.
+13.01. 11:08:50.230    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.230    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.230    Renaming saved game.
+13.01. 11:08:50.230    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.230    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.230    Renaming saved game.
+13.01. 11:08:50.231    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.231    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.231    Renaming saved game.
+13.01. 11:08:50.231    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.231    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.231    Renaming saved game.
+13.01. 11:08:50.231    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.231    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.231    Renaming saved game.
+13.01. 11:08:50.231    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.231    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.231    Renaming saved game.
+13.01. 11:08:50.232    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.232    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.232    Renaming saved game.
+13.01. 11:08:50.232    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.232    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.232    Renaming saved game.
+13.01. 11:08:50.232    SAVEGAME.NET doesn't exist!
+13.01. 11:08:50.232    FSW Event: C:/TW_Warzone_Fin.1/TW Warzone Fin/Saved Games\SAVEGAME.NET
+13.01. 11:08:50.232    Renaming saved game.
+13.01. 11:08:50.232    SAVEGAME.NET doesn't exist!
+13.01. 11:08:56.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:08:59.584    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:09:06.369    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:17.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:17.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:17.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:17.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:17.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:18.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:28.374    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:38.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:48.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:09:58.367    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:09.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:09.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:09.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:09.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:09.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:10.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:10.603    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:10:20.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:30.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:40.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:10:50.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:01.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:01.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:01.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:01.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:01.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:02.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:12.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:21.635    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:11:22.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:32.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:42.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:53.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:53.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:53.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:53.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:53.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:11:54.369    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:04.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:14.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:24.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:32.647    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:12:34.369    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:45.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:45.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:45.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:45.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:45.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:46.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:12:56.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:06.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:16.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:26.374    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:37.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:37.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:37.366    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:37.367    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:37.367    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:38.367    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:43.672    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:13:48.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:13:58.374    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:08.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:18.367    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:29.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:29.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:29.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:29.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:29.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:30.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:40.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:50.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:14:54.678    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:15:00.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:10.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:21.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:21.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:21.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:21.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:21.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:22.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:32.358    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:42.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:15:52.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:02.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:05.692    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:16:13.361    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:13.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:13.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:13.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:13.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:14.363    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:24.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:34.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:44.365    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:16:54.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:05.360    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:05.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:05.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:05.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:05.567    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:06.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:16.368    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:16.718    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:17:26.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:36.372    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:46.359    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:57.371    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:57.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:57.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:57.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:57.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:17:58.362    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:08.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:09.364    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:19.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:27.723    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:18:29.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:30.559    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:40.569    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:18:50.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:00.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:01.373    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:11.370    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:21.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:22.559    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:32.563    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:38.722    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:19:42.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:19:52.559    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:02.557    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:13.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:13.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:13.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:13.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:13.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:14.562    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:24.563    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:34.566    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:44.565    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:20:49.733    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:20:54.569    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:05.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:05.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:05.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:05.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:05.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:06.561    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:16.570    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:26.574    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:36.561    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:46.563    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:57.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:57.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:57.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:57.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:57.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:21:58.570    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:00.740    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:22:08.564    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:18.571    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:28.565    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:38.561    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:49.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:49.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:49.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:49.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:49.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:22:50.568    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:00.569    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:10.560    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:11.740    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:23:20.565    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:30.561    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:41.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:41.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:41.572    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:41.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:41.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:23:42.573    Unknown LAN command from steamuser (192.168.178.234) : PING
+13.01. 11:24:22.773    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+13.01. 11:25:31.365    KABOOOOOOM!!! Info:
+13.01. 11:25:31.365    Message: A socket operation was attempted to an unreachable host
+13.01. 11:25:31.592    Source: System
+13.01. 11:25:31.594    TargetSite.Name: SendTo
+13.01. 11:25:31.619    Stacktrace:    at System.Net.Sockets.Socket.SendTo(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint remoteEP)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendMessage(String message)
+   at DTAClient.DXGUI.Multiplayer.LANLobby.SendAlive()
+   at DTAClient.DXGUI.Multiplayer.LANLobby.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)

@@ -1,0 +1,20 @@
+[INISystem]
+BasedOn=bunny_lockdown_hard.map
+
+[Basic]
+Name=[3] Bunny Lockdown (Medium)
+
+[BUNZILLA]
+Strength=32000
+
+[ChemStream]
+Damage=120
+
+[01000004]
+0=3,E2
+1=2,MTNK
+2=3,JEEP
+3=2,E1
+Name=Starting units
+Group=-1
+

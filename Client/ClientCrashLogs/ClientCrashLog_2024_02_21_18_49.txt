@@ -1,0 +1,144 @@
+21.02. 18:47:15.996    ***Logfile for C&C WarZone client***
+21.02. 18:47:16.002    Client version: 2.6.7.5
+21.02. 18:47:16.002    Loading settings.
+21.02. 18:47:16.043    Initializing updater.
+21.02. 18:47:16.059    Update mirror count: 1
+21.02. 18:47:16.059    Running from: clientdx.exe
+21.02. 18:47:16.062    Operating system: Microsoft Windows NT 6.2.9200.0
+21.02. 18:47:16.063    Selected OS profile: WIN810
+21.02. 18:47:16.133    Removing partial custom component downloads.
+21.02. 18:47:16.138    Checking for the existence of FinalSun.ini.
+21.02. 18:47:16.139    FinalSun settings file exists.
+21.02. 18:47:16.149    Writing installation path to the Windows registry.
+21.02. 18:47:16.160    Starting background processing of INI files.
+21.02. 18:47:16.161    /INI/Base does not exist, skipping background processing of INI files.
+21.02. 18:47:16.535    Initializing GameClass.
+21.02. 18:47:16.872    InitGraphicsMode: 1280x800
+21.02. 18:47:17.030    Checking local file versions.
+21.02. 18:47:17.036    Loading maps.
+21.02. 18:47:18.303    Attempting to parse INI/Battle.ini to populate mission list.
+21.02. 18:47:18.303    File INI/Battle.ini not found. Ignoring.
+21.02. 18:47:18.303    Attempting to parse INI/BattleFS.ini to populate mission list.
+21.02. 18:47:18.304    File INI/BattleFS.ini not found. Ignoring.
+21.02. 18:47:18.338    Attempting to parse INI\BattleRA2.ini to populate mission list.
+21.02. 18:47:18.352    Finished parsing INI\BattleRA2.ini.
+21.02. 18:47:18.381    Attempting to parse INI\BattleYR.ini to populate mission list.
+21.02. 18:47:18.381    File INI\BattleYR.ini not found. Ignoring.
+21.02. 18:47:18.404    Attempting to parse INI\BattleGEN.ini to populate mission list.
+21.02. 18:47:18.405    File INI\BattleGEN.ini not found. Ignoring.
+21.02. 18:47:18.429    Attempting to parse INI\BattleRotE.ini to populate mission list.
+21.02. 18:47:18.429    File INI\BattleRotE.ini not found. Ignoring.
+21.02. 18:47:18.455    Attempting to parse INI\Challenge.ini to populate mission list.
+21.02. 18:47:18.455    File INI\Challenge.ini not found. Ignoring.
+21.02. 18:47:18.633    Reading statistics.
+21.02. 18:47:19.624    AssetLoader.LoadSound: Sound not found! getready.wav
+21.02. 18:47:19.680    AssetLoader.LoadSound: Sound not found! getready.wav
+21.02. 18:47:19.681    AssetLoader.LoadSound: Sound not found! return.wav
+21.02. 18:47:19.957    AssetLoader.LoadSound: Sound not found! getready.wav
+21.02. 18:47:19.957    AssetLoader.LoadSound: Sound not found! return.wav
+21.02. 18:47:20.008    AssetLoader.LoadSound: Sound not found! getready.wav
+21.02. 18:47:20.306    CheckForUpdates()
+21.02. 18:47:20.315    Checking version on the server.
+21.02. 18:47:20.318    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+21.02. 18:47:21.528    Downloaded version information, parsing.
+21.02. 18:47:21.550    Server game version is 5.7.7, local version is 5.7.7
+21.02. 18:47:21.552    File identifiers updated.
+21.02. 18:47:21.555    Checking if custom components are outdated.
+21.02. 18:47:22.605    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 12GB
+21.02. 18:47:24.169    Creating LAN socket.
+21.02. 18:47:24.170    Starting listener.
+21.02. 18:47:26.350    LAN socket listener: exception: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+21.02. 18:47:28.875    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:47:29.501    Creating LAN socket.
+21.02. 18:47:29.502    Starting listener.
+21.02. 18:47:32.194    New client connected from 127.0.0.1
+21.02. 18:47:32.225    Hash for Resources/FHCConfig.ini: 
+21.02. 18:47:32.225    Hash for Resources/GameOptions.ini: fdde8e42317392b8c1cb992abbf647f51a25eb62
+21.02. 18:47:32.225    Hash for Resources/clientdx.exe: 42903f04c991115ade516ad2211b97b76c3901cd
+21.02. 18:47:32.225    Hash for Resources/clientxna.exe: c6191b37a22a737f1c815a491b32f648c0adb57b
+21.02. 18:47:32.225    Hash for Resources/clientogl.exe: f6b2a49f74ac3a971d0346363548544f0c1c9f2d
+21.02. 18:47:32.225    Hash for INI/MPMaps.ini: de558d83d2b5ce881dd8d276bd32c2f2f7faf903
+21.02. 18:47:32.226    Hash for game.exe: 31a0eb514139333286b28017d8eb6369cce9826c
+21.02. 18:47:32.226    Hash for spawner.xdp: 
+21.02. 18:47:32.226    Hash for rules.ini: 
+21.02. 18:47:32.226    Hash for ai.ini: 
+21.02. 18:47:32.226    Hash for art.ini: 
+21.02. 18:47:32.226    Hash for shroud.shp: 
+21.02. 18:47:32.230    Hash for INI/Rules.ini: da44117b53fbdb377f1dc924fc080f8385216143
+21.02. 18:47:32.231    Hash for INI/Enhance.ini: 
+21.02. 18:47:32.231    Hash for INI/Firestrm.ini: 86cb3ac967f6f032031e0322a201800a3da14521
+21.02. 18:47:32.233    Hash for INI/Art.ini: 51694220a4c17f13dc98113fb9e876f6d31a3390
+21.02. 18:47:32.234    Hash for INI/ArtE.ini: 
+21.02. 18:47:32.234    Hash for INI/ArtFS.ini: d5ff9adbcc46fc76d9e0c23a1aa7eacd1e6ce233
+21.02. 18:47:32.236    Hash for INI/AI.ini: d7e234bec16286dc9feb44cf7ebbb0d81459c5ca
+21.02. 18:47:32.236    Hash for INI/AIE.ini: 
+21.02. 18:47:32.237    Hash for INI/AIFS.ini: cc80e3bfaf76e98db3ea5c42b849d9374218757e
+21.02. 18:47:32.239    Hash for INI/Game Options/Cheats.ini: b2e8253003c3e99a019423144f525cfc1dabe4fb
+21.02. 18:47:32.239    Hash for INI/Game Options/Disable Super Weapons.ini: 0e59f3cf06c830c9c516537de7afa2790dfd0ccb
+21.02. 18:47:32.239    Hash for INI/Game Options/Disable Visceroids.ini: ef28ccbb7b6fbab0b875c76ef4ba7a91463b40d2
+21.02. 18:47:32.239    Hash for INI/Game Options/HardCore.ini: dc38654d30b6ab03d96abbbc5702b9711b8e9564
+21.02. 18:47:32.240    Hash for INI/Game Options/Harder AI.ini: c93945703c7d11d18b950a346a188e08ad5bc68d
+21.02. 18:47:32.240    Hash for INI/Game Options/Immune Harvesters.ini: 1dee8249c14f0fd0a5778d2d0b0daf68c57e14a0
+21.02. 18:47:32.240    Hash for INI/Game Options/Infinite Tiberium.ini: dac4093473e34df680929179026f3827652769ca
+21.02. 18:47:32.240    Hash for INI/Game Options/Lighting/Artic Day.ini: 129923c85fba9bbaf02a79e77d5a2d30af016be9
+21.02. 18:47:32.240    Hash for INI/Game Options/Lighting/Artic Night.ini: 12298c6dc2ffe46fc40f8092e82f900251c3e6fb
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Artic Storm.ini: 0ab2f99c06d7688e94ed555482f4b489b2e04ef7
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Dawn.ini: e8118f28d9dc6332c569964b704eaf84a089e32e
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Day and Night.ini: 3e87f5257a735da1088cebc20f24e38d1d87f8bb
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Dusk.ini: a8493c04a4d007477166f171d4813f5ea30a02af
+21.02. 18:47:32.241    Hash for INI/Game Options/Lighting/Mid day.ini: c1d764a8ee16c016eee125ad8caf5987aff34b0f
+21.02. 18:47:32.242    Hash for INI/Game Options/Lighting/Night.ini: 33bdc260921de37f4ebed6e5a05ea7f449b7a3f0
+21.02. 18:47:32.242    Hash for INI/Game Options/No Baddy Crates.ini: cee61ff08d42088d49770e6b340a68c0dfe79427
+21.02. 18:47:32.242    Hash for INI/Game Options/No Silos.ini: 195c5958487647e87622edf8f742cf434ec907fd
+21.02. 18:47:32.242    Hash for INI/Game Options/Reveal Shroud.ini: 131db0407f5f07b87679741fda4b889caf9c536e
+21.02. 18:47:32.242    Hash for INI/Game Options/Shroud Regrows.ini: a873a0c2a9d51de3253c047bda3dd83b78cd2270
+21.02. 18:47:32.242    Hash for INI/Game Options/Storms.ini: df0eb421c3c166ec7b55087888aded2483367984
+21.02. 18:47:32.243    Hash for INI/Game Options/Weather/Default.ini: 37d7fa023be741b6e71e98530590db405681a965
+21.02. 18:47:32.243    Hash for INI/Game Options/Weather/Rain.ini: 1953e591d4c6c7984e82e3d7ce82a29cccbf749e
+21.02. 18:47:32.243    Hash for INI/Game Options/Weather/RainStorm.ini: 35fb746baa71f41fa04929aed8bb7a99de4abb77
+21.02. 18:47:32.243    Hash for INI/Game Options/Weather/SandStorm.ini: c71260dc85d02243f0736dd8c4f220da1a8c9861
+21.02. 18:47:32.243    Hash for INI/Game Options/Weather/Snow.ini: 19141aa87ddb48709053878924098b0f866cfcc5
+21.02. 18:47:32.244    Hash for INI/Game Options/Weather/SnowStorm.ini: e1933dd2b3e2677115de03eb75ad7e7281180817
+21.02. 18:47:32.244    Hash for INI/Game Options/Weather/TibRainStorm.ini: 2feb604e35d252c33f9c98ce53350faf371f9fa3
+21.02. 18:47:32.245    Complete hash: 32b899c5892e6e9b551cfdbbb1f7164155bbe5b1
+21.02. 18:47:41.567    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:47:55.460    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:48:10.558    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:48:26.842    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:48:44.302    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:49:02.951    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+21.02. 18:49:07.315    New client connected from 192.168.178.234
+21.02. 18:49:07.492    KABOOOOOOM!!! Info:
+21.02. 18:49:07.492    Message: Exception has been thrown by the target of an invocation.
+21.02. 18:49:07.502    Source: mscorlib
+21.02. 18:49:07.503    TargetSite.Name: InvokeMethod
+21.02. 18:49:07.507    Stacktrace:    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)
+21.02. 18:49:07.507    InnerException info:
+21.02. 18:49:07.507    Message: Object reference not set to an instance of an object.
+21.02. 18:49:07.507    Stacktrace:    at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.HandleFileHashCommand(String sender, String fileHash)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.CommandHandlers.StringCommandHandler.Handle(String sender, String message)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.LANGameLobby.HandleClientMessage(String data, LANPlayerInfo lpInfo)

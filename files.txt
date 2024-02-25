@@ -1,0 +1,854 @@
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\BLOWFISH.DLL
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\changelog.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\clientupdt.dat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\credits.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\ddraw.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\ddraw.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\dxgi.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\dxgi.log
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\files.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Game.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\HALLFAME.DAT
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Keyboard.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Language.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\mpstats.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\opengl32.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\OPENGL32.log
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\qres.dat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\qres32.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\ReShade.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Saved Games
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Screenshots
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\ThumbnailExtractor.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\TS.LOG
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\version
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\versionconfig.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\VersionWriter.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\WarZone.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\client.log
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\friend_list
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\GameCrashLogs
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\ignore_list
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\SettingsCache
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\SkirmishSettings.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\tunnel_cache
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\SettingsCache\Resources
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\SettingsCache\Resources\ReShade Files
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Client\SettingsCache\Resources\ReShade Files\ReShade.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\ai.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\aifs.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\art.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\artfs.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\battle.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\day.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Default.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\dusk.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\firestrm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\FSR.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\ion.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\keyboard.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\mapsel.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\mapsel01.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\morning.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\MPMaps.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\MPMaps.pkt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\night.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\rules.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\snow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\sound.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\sound01.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\temperat.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\theme.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\theme01.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\tutorial.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Cheats.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Disable Super Weapons.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Disable Visceroids.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\HardCore.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Harder AI.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Immune Harvesters.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Infinite Tiberium.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\No Baddy Crates.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\No Silos.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Reveal Shroud.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Shroud Regrows.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Storms.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Artic Day.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Artic Night.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Artic Storm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Dawn.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Day and Night.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Default.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Dusk.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Mid day.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Lighting\Night.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Backup
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Default.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Rain.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\RainStorm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\SandStorm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Snow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\SnowStorm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\TibRainStorm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Backup\Default.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Backup\Rain.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Backup\Snow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\INI\Game Options\Weather\Backup\SnowStorm.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\FinalSun.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\FinalSun.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\finalsunlog.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\FSData.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\FSLanguage.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\FSunLib.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Map Editor.bat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Map Renderer.bat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\marble.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\readme marble.doc
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\readme.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\StdMapTS.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\tips.deu
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\tips.eng
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\tips.nl
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\tips.swe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\_battle.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\index.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\edito.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\editt.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\faq.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\formats.css
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\left.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\license.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\main.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\maptutorial.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\requirements.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\sunedit.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\triggers.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tteam.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutbridge.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutconv.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutlight.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutmp.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutsize.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutsp.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutt.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttrig1.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttrig2.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttrig3.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttrig4.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttrig5.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tuttun.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\tutwayp1.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\userinterface.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\whatsthis.htm
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\bar.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\bar2.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\cellt.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\triggers.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tun1.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tun2.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_0.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_1.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_10.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_11.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_2.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_3.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_4.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_5.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_6.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_7.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_8.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\tutorial1_9.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\ui.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Help\content\pics\wayp.jpg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\- MP Enable Change Owner Function.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Add Reveal Map Debug Trigger.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\After Glow.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Create Afternoon Lighting.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Create Evening Lighting.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Create Morning Lighting.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Create Night Lighting.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Day Night Loop (TS) sno.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Day-Night Loop.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Enlarge Map by 100x100.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Enlarge Map by 50x50.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\InVisLmps.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\List general map stats.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\List Objects.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\ListFilesInDirectory.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Make all aircraft recruitable.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Make all infantry recruitable.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Make all units recruitable.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\MP Move 4 starting points into corners.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\output.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Random Aircraft facing.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Random Infantry Facing.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Editor\Scripts\Random Unit Facing.fscript
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.Engine.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.FileFormats.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.Renderer.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.Renderer.GUI.dat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.Renderer.GUI.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\CNCMaps.Shared.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\gui_settings.xml
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\modconfig.xml
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\NLog.config
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\NLog.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\OpenTK.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\OpenTK.dll.config
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\OSMesa.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\Roslyn.Compilers.CSharp.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Map Renderer\Roslyn.Compilers.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_articancor.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_articancor.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_blizzard.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_blizzard.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_chasmduel.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_chasmduel.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_duel.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_duel.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_duel2.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_duel2.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_faceof.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_faceof.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_farasisland.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_farasisland.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_fight.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_fight.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_grisaspass.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_grisaspass.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_miami.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_miami.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_retreat.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_retreat.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_sector4101.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_sector4101.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_sedonapass.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_sedonapass.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_skyline.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_skyline.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_springs.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_springs.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_tiers.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_tiers.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_vinaisland.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_2_vinaisland.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_3_altered.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_3_altered.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_3_tiblab.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_3_tiblab.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_access.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_access.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_canyon.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_canyon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_cliffpassage.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_cliffpassage.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_crossroad.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_crossroad.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_highway.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_highway.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_hydradam.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_hydradam.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_mutantcity.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_mutantcity.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_pentagrm.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_pentagrm.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_smalltown.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_smalltown.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_superhigh.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_superhigh.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_terrace.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_terrace.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tiber.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tiber.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tibriver.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tibriver.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tropicalaccess.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tropicalaccess.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tunnel.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_4_tunnel.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_cliffsin.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_cliffsin.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_montana.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_montana.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_sinkhole.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_5_sinkhole.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_area52.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_area52.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_canyon2.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_canyon2.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_cityscap.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_cityscap.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_desertrush.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_desertrush.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_hextreme.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_hextreme.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_refuge.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_refuge.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_vinepass.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_6_vinepass.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_anomaly.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_anomaly.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_forestfr.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_forestfr.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_icecliff.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Custom\wz_8_icecliff.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi01.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi02.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi03.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi04.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi05.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi06.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi07.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi08.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsgdi09.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod01.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod02.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod03.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod04.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod05.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod06.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod07.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod08.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\fsnod09.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi10a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi10b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi11a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi12a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi1a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi2a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi3a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi3b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi4a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi5a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi5b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi5c.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi6a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi6b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi7a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi8a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi9a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi9b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi9c.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\gdi9d.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod10a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod11a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod12a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod12b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod1a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod2a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod3a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod3b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod4a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod4b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod5a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod6a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod6b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod6c.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod7a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod7b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod8a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod9a.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Maps\Missions\nod9b.map
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Cache.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Conquer.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\E01SCD01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\E01SCD02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\e01vox01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\e01vox02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ECache00.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ECache01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache60.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache61.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache71.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache72.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache73.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache74.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache75.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache76.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\ecache78.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Expand00.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\expand55.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\expand70.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\expand77.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\IsoSnow.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\IsoTemp.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\SCORES.MIX
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\SCORES01.MIX
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Sidec01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Sidec02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\SideCD01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\SideCD02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\sidenc01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\sidenc02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Sounds.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\Sounds01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\speech01.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\speech02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\MIX\TibSun.MIX
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzone.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzoneBladeRunner.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzoneFog.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzoneHeat.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzoneOG.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\C&CWarzoneRetro.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\DefaultPreset.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\3DFX.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\AdaptiveFog.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\AdaptiveSharpen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\AmbientLight.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ASCII.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\AspectRatio.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Bloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Border.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Cartoon.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Chromakey.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ChromaticAberration.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CinematicDOF.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Clarity.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CnCUIskip.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ColorMatrix.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Colourfulness.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\crt-nes-mini.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRT.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTAperture.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTCaligari.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTcgwg.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTEasymode.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTGeom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTHyllian.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\CRTLottes.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Curves.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Daltonize.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Deband.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Denoise.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Depth3D.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\DepthHaze.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\DisplayDepth.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\DOF.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\DPX.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\DrawText.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\EGAfilter.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Emphasize.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\EyeAdaption.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FakeHDR.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FakeMotionBlur.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FilmGrain.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FilmGrain2.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FilmicAnamorphSharpen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FilmicPass.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FineSharp.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FXAA.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\FXAA.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\GaussianBlur.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Glitch.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\GTU.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\HeatHaze.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\HighPassSharpen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\HQ4X.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\HSLShift.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Layer.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Levels.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\LevelsPlus.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\LiftGammaGain.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\LightDoF.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\LumaSharpen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\LUT.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Macros.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MagicBloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MCAmber.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MCGreen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MCOrange.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Monochrome.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MultiLUT.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\MXAO.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\NightVision.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Nostalgia.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ntsc.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\NTSC_RetroArch.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PAL.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PerfectPerspective.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PPFX_Bloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PPFX_Godrays.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PPFX_SSDO.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Prism.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\qUINT
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\R57_PAL.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ReflectiveBumpMapping.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ReShade.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\ReShadeUI.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Resolutionizer.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\scanlines-abs.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Sepia.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\SMAA.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\SMAA.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Splitscreen.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\StageDepth.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\SurfaceBlur.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Technicolor.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Technicolor2.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\TiltShift.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Tonemap.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\TriDither.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\UIDetect.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\UIDetect.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\UIMask.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Vibrance.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Vignette.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_00_Base_Effects.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_00_Blend_Modes.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_00_Color_Spaces.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_00_Noise_Samplers.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_01A_RT_Correct_Contrast.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_01B_RT_Correct_Color.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_02_Bloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\PD80\PD80_04_Contrast_Brightness_Saturation.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Bloom.cfg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Bloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Depth.cfg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Depth_DOF.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Depth_GI.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Depth_Preprocess.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Depth_SSAO.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Global.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Lumachroma.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\Pirate\Pirate_Tonemap.cfg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\qUINT\qUINT_bloom.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\qUINT\qUINT_common.fxh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Shaders\qUINT\qUINT_sharp.fx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\AreaTex.dds
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\bayer16x16.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\Dirt.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\DirtA.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\DirtOVB.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\DirtOVR.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\FontAtlas.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\haze.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\Layer.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\LensDB.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\LensDB2.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\LensDOV.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\LensDUV.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\LensSprite.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\lut.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\MagicBloom_Dirt.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\MultiLut_atlas1.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_bluenoise.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_bluenoise_rgba.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_clean_lut.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_example-lut.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_gaussnoise.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_neutral-lut.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\pd80_permtexture.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\SCRATCH_Example.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\SearchTex.dds
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\ssdonoise.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\Stage.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\TM_DeusEx.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\TM_Dirty.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\TM_Example.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\TM_Redblue.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\reshade-shaders\Textures\UIMask.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\aqrit.cfg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\cheater.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ClientDefinitions.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ClientDefinitions.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\clientdx.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\clienticon.ico
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\clienticon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\clientogl.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\clientxna.exe
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\compatfix.sdb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\cursor.cur
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\cursor.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ECache00.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ecache02.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ECache03.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ecache77.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\expand77.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\expand80.mix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\FScompatfix.sdb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\GameCollectionConfig.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\gamecreated.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\GameOptions.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\GameOptions.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\gdiicon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\GenericWindow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\incompatible.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\joingame.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\KeyboardCommands.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l480s01.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l480s02.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l480s11.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l480s12.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l600s01.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l600s02.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l600s11.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\l600s12.pcx
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Language_1024x720.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Language_640x480.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Language_800x600.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\launcherupdater.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\leavegame.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\libwine.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\lobbymusic.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\lockedgame.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\message.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\nodicon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\nopreview.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\OptionsWindow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\OptionsWindow.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\passwordedgame.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ping0.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ping1.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ping2.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ping3.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ping4.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\pm.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\qres license.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\randomicon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\rank.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\rankEasy.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\rankHard.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\rankNone.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\rankNormal.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Renderers.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ReShade Files
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\scrinicon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\spectatoricon.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\SpriteFont0.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\SpriteFont1.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\SpriteFont2.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\SpriteFont3.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\SpriteFont4.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\UpdaterConfig.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ZLIB.License.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ZLIB.Ms-PL.txt
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\DiscordRPC.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\DTAUpdater.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Ionic.Zip.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\MapThumbnailExtractor.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\MonoGame.Framework.WindowsGL.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Newtonsoft.Json.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Rampastring.Tools.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\SharpDX.Direct3D11.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\SharpDX.Direct3D9.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\XNA
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\ClientCore.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\ClientGUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\DTAConfig.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\libopenal.1.dylib
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\libSDL2-2.0.0.dylib
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\MonoGame.Framework.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\NVorbis.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\OpenTK.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\Rampastring.XNAUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x64
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x86
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x64\libopenal.so.1
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x64\libSDL2-2.0.so.0
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x64\SDL2.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x64\soft_oal.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x86\libopenal.so.1
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x86\libSDL2-2.0.so.0
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x86\SDL2.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\OpenGL\x86\soft_oal.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\ClientCore.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\ClientGUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\DTAConfig.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\MonoGame.Framework.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\Rampastring.XNAUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.Direct2D1.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.Direct3D11.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.Direct3D9.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.DXGI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.MediaFoundation.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.RawInput.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.XAudio2.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\Windows\SharpDX.XInput.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\XNA\ClientCore.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\XNA\ClientGUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\XNA\DTAConfig.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Binaries\XNA\Rampastring.XNAUI.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Unix
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\aqrit.cfg
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\cnc-ddraw.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\ddraw-auto.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\ddraw-gdi.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\ddraw-opengl.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Configs\dxwnd.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\cnc-ddraw.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ddraw_ddcompat.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ddraw_dxwnd.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ddraw_nohw.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ddwrapper.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\dxwnd.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ie_ddraw.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\libwine.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ts-ddraw-old.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\ts-ddraw.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\DLL\wined3d.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Unix\wine-game.bat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Unix\wine-game.sh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Unix\wine-mapedit.bat
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\Compatibility\Unix\wine-mapedit.sh
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ReShade Files\dxgi.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ReShade Files\opengl32.dll
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\ReShade Files\ReShade.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\110pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\110pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\121pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\121pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\133pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\133pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\133pxtab.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\133pxtab_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\142pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\142pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\160pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\160pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\75pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\75pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\92pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\92pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\97pxbtn.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\97pxbtn_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\bar_ll.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\bar_lr.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\bar_ul.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\bar_ur.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\button.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\checkbox.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\checkBoxChecked.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\checkBoxCheckedD.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\checkBoxClear.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\checkBoxClearD.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\CnCNetLobby.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\CnCNetLobby.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\cncnetlobbybg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\comboBoxArrow.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\dropdown.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\DTACnCNetClient.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\DTACnCNetClient.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\ExtrasWindow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\ExtrasWindow.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\facebookActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\facebookInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\forumsActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\forumsInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\gamecreationoptionsbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\gamelobbybg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\GenericWindow.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\genericwindowbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\googlePlusActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\googlePlusInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\LANLobby.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\LANLobby.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\leftbar.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\LoadingScreen.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\loadingScreen.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\loadmissionbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\loadmpsavebg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\loadmpsavepanelbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\logindialogbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenuTheme.wma
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenuTheme.xnb
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\missionselectorbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\moddbActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\moddbInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\msgboxform.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MultiplayerGameLobby.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MultiplayerGameLobby.ini.bak
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\openedComboBoxArrow.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\optionsbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\passwordquerybg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\privatemessagebg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\rightbar.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbBackground.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbDownArrow.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbMiddle.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbThumbBottom.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbThumbTop.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\sbUpArrow.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\scoreviewerbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\scoreviewerpanelbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\SkirmishLobby.ini
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator1.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator2.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator3.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator4.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator5.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator6.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator7.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicator8.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicatorc.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicatorh.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicatorr.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\slocindicatorx.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\trackbarButton.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\trackbarButton_difficulty.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\twitterActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\twitterInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\updatequerybg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\updaterbg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\youtubeActive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\youtubeInactive.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\back.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\back_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\button.wav
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\campaign.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\campaign_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\cncnet.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\cncnet_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\credits.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\credits_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\exitgame.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\exitgame_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\extras.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\extras_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\lan.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\lan_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\loadmission.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\loadmission_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\mainmenubg.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\mapeditor.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\mapeditor_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\options.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\options_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\skirmish.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\skirmish_c.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\statistics.png
+C:\Users\pedro\Desktop\Mods\TS Client - Copy\Resources\WZ Theme\MainMenu\statistics_c.png

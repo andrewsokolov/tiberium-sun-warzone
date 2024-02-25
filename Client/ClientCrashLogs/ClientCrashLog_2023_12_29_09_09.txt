@@ -1,0 +1,107 @@
+29.12. 08:33:07.949    ***Logfile for C&C WarZone client***
+29.12. 08:33:07.965    Client version: 2.6.7.5
+29.12. 08:33:07.965    Loading settings.
+29.12. 08:33:07.996    Initializing updater.
+29.12. 08:33:08.012    Update mirror count: 1
+29.12. 08:33:08.012    Running from: clientdx.exe
+29.12. 08:33:08.012    Operating system: Microsoft Windows NT 6.2.9200.0
+29.12. 08:33:08.012    Selected OS profile: WIN810
+29.12. 08:33:08.074    Removing partial custom component downloads.
+29.12. 08:33:08.074    Checking for the existence of FinalSun.ini.
+29.12. 08:33:08.074    FinalSun settings file exists.
+29.12. 08:33:08.090    Writing installation path to the Windows registry.
+29.12. 08:33:08.090    Starting background processing of INI files.
+29.12. 08:33:08.105    /INI/Base does not exist, skipping background processing of INI files.
+29.12. 08:33:08.419    Initializing GameClass.
+29.12. 08:33:08.702    InitGraphicsMode: 1280x800
+29.12. 08:33:08.844    Checking local file versions.
+29.12. 08:33:08.849    Loading maps.
+29.12. 08:33:10.240    Attempting to parse INI/Battle.ini to populate mission list.
+29.12. 08:33:10.240    File INI/Battle.ini not found. Ignoring.
+29.12. 08:33:10.244    Attempting to parse INI/BattleFS.ini to populate mission list.
+29.12. 08:33:10.244    File INI/BattleFS.ini not found. Ignoring.
+29.12. 08:33:10.277    Attempting to parse INI\BattleRA2.ini to populate mission list.
+29.12. 08:33:10.289    Finished parsing INI\BattleRA2.ini.
+29.12. 08:33:10.308    Attempting to parse INI\BattleYR.ini to populate mission list.
+29.12. 08:33:10.313    File INI\BattleYR.ini not found. Ignoring.
+29.12. 08:33:10.332    Attempting to parse INI\BattleGEN.ini to populate mission list.
+29.12. 08:33:10.332    File INI\BattleGEN.ini not found. Ignoring.
+29.12. 08:33:10.357    Attempting to parse INI\BattleRotE.ini to populate mission list.
+29.12. 08:33:10.357    File INI\BattleRotE.ini not found. Ignoring.
+29.12. 08:33:10.381    Attempting to parse INI\Challenge.ini to populate mission list.
+29.12. 08:33:10.381    File INI\Challenge.ini not found. Ignoring.
+29.12. 08:33:10.514    Reading statistics.
+29.12. 08:33:11.080    AssetLoader.LoadSound: Sound not found! getready.wav
+29.12. 08:33:11.133    AssetLoader.LoadSound: Sound not found! getready.wav
+29.12. 08:33:11.133    AssetLoader.LoadSound: Sound not found! return.wav
+29.12. 08:33:11.382    AssetLoader.LoadSound: Sound not found! getready.wav
+29.12. 08:33:11.382    AssetLoader.LoadSound: Sound not found! return.wav
+29.12. 08:33:11.514    AssetLoader.LoadSound: Sound not found! getready.wav
+29.12. 08:33:11.822    CheckForUpdates()
+29.12. 08:33:11.832    Checking version on the server.
+29.12. 08:33:11.832    Trying to connect to update mirror http://www.riseoftheeastmod.com/tibwar/warzone/live/
+29.12. 08:33:13.095    Downloaded version information, parsing.
+29.12. 08:33:13.114    Server game version is 5.7.7, local version is 5.7.7
+29.12. 08:33:13.120    File identifiers updated.
+29.12. 08:33:13.120    Checking if custom components are outdated.
+29.12. 08:33:14.374    Hardware info: Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) Apple Silicon (1 cores) | Video controller: Parallels Display Adapter (WDDM) | Total physical memory: 8GB
+29.12. 08:33:20.946    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+29.12. 08:33:33.658    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+29.12. 08:33:34.164    Writing spawn.ini
+29.12. 08:33:34.196    Writing map.
+29.12. 08:33:34.196    Loading map INI from C:/TW_Warzone_Fin.1/TW Warzone Fin/MAPS\FAN-MADE\FS_ATLAS_DOWNFALL.map
+29.12. 08:33:34.344    About to launch main game executable.
+29.12. 08:33:34.364    Writing settings INI.
+29.12. 08:33:34.374    Launch executable: game.exe
+29.12. 08:33:34.374    Launch arguments: -SPAWN
+29.12. 08:33:34.394    GameProcessLogic: Process started.
+29.12. 08:33:34.415    Waiting for qres.dat or game.exe to exit.
+29.12. 08:33:47.544    Discord: Pipe Connection Failed. Could not connect to pipe #-1
+29.12. 09:09:18.499    GameProcessLogic: Process exited.
+29.12. 09:09:18.696    GameProcessExited: Parsing statistics.
+29.12. 09:09:18.696    Parsing game statistics.
+29.12. 09:09:18.706    Attempting to read statistics from TS.LOG
+29.12. 09:09:18.710    GameProcessExited: Adding match to statistics.
+29.12. 09:09:18.716    Writing game info to statistics file.
+29.12. 09:09:18.721    Finished writing statistics.
+29.12. 09:09:18.816    AssetLoader.LoadTextureInternal: loading texture MAPS\FAN-MADE/FS_ATLAS_DOWNFALL.png failed! Message: This image format is not supported
+29.12. 09:09:18.836    KABOOOOOOM!!! Info:
+29.12. 09:09:18.839    Message: Exception has been thrown by the target of an invocation.
+29.12. 09:09:18.892    Source: mscorlib
+29.12. 09:09:18.897    TargetSite.Name: InvokeMethod
+29.12. 09:09:18.906    Stacktrace:    at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAControl.Update(GameTime gameTime)
+   at Rampastring.XNAUI.XNAControls.XNAPanel.Update(GameTime gameTime)
+   at ClientGUI.DarkeningPanel.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)
+29.12. 09:09:18.907    InnerException info:
+29.12. 09:09:18.907    Message: HRESULT: [0x887A0005], Module: [SharpDX.DXGI], ApiCode: [DXGI_ERROR_DEVICE_REMOVED/DeviceRemoved], Message: The GPU device instance has been suspended. Use GetDeviceRemovedReason to determine the appropriate action.
+
+29.12. 09:09:18.909    Stacktrace:    at SharpDX.Result.CheckError()
+   at SharpDX.Direct3D11.Device.CreateTexture2D(Texture2DDescription& descRef, DataBox[] initialDataRef, Texture2D texture2DOut)
+   at Microsoft.Xna.Framework.Graphics.Texture2D.CreateTexture()
+   at Microsoft.Xna.Framework.Graphics.Texture2D.PlatformSetData[T](Int32 level, T[] data, Int32 startIndex, Int32 elementCount)
+   at Microsoft.Xna.Framework.Graphics.Texture2D.SetData[T](T[] data)
+   at Rampastring.XNAUI.AssetLoader.CreateTexture(Color color, Int32 width, Int32 height)
+   at Rampastring.XNAUI.AssetLoader.CreateDummyTexture()
+   at DTAClient.Domain.Multiplayer.Map.LoadPreviewTexture()
+   at DTAClient.DXGUI.Multiplayer.GameLobby.MapPreviewBox.UpdateMap()
+   at DTAClient.DXGUI.Multiplayer.GameLobby.GameLobbyBase.ChangeMap(GameMode gameMode, Map map)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.SkirmishLobby.GameProcessExited()
