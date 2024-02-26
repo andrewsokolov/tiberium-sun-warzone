@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
+	"log"
 	"os"
 	"regexp"
 	"sort"
@@ -37,7 +39,23 @@ func removeDuplicates[T SliceType](s []T) []T {
 }
 
 func main() {
-	err := os.RemoveAll("./temp")
+
+	mixFiles := make(map[string]string)
+
+	files, err := ioutil.ReadDir("MERGE_MIX")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	for _, file := range files {
+		b, err := os.ReadFile("MERGE_MIX/" + file.Name()) // just pass the file name
+		if err != nil {
+			fmt.Print(err)
+		}
+		mixFiles[file.Name()] = string(b)
+	}
+
+	err = os.RemoveAll("./temp")
 	if err != nil {
 		fmt.Printf("Fail to remove file: %v", err)
 		os.Exit(1)
@@ -54,7 +72,7 @@ func main() {
 		IgnoreInlineComment:     true,
 		IgnoreContinuation:      true,
 		SkipUnrecognizableLines: true,
-	}, "WARZONE/rules.ini")
+	}, "MERGE_INI/rules.ini")
 	if err != nil {
 		fmt.Printf("Fail to read file: %v", err)
 		os.Exit(1)
@@ -158,7 +176,7 @@ func main() {
 		IgnoreInlineComment:     true,
 		IgnoreContinuation:      true,
 		SkipUnrecognizableLines: true,
-	}, "WARZONE/sound01.ini")
+	}, "MERGE_INI/sound01.ini")
 	if err != nil {
 		fmt.Printf("Fail to read file: %v", err)
 		os.Exit(1)
@@ -169,7 +187,7 @@ func main() {
 		IgnoreInlineComment:     true,
 		IgnoreContinuation:      true,
 		SkipUnrecognizableLines: true,
-	}, "WARZONE/art.ini")
+	}, "MERGE_INI/art.ini")
 	if err != nil {
 		fmt.Printf("Fail to read file: %v", err)
 		os.Exit(1)
@@ -293,6 +311,12 @@ func main() {
 					AnimationsOutput.NewKey(fmt.Sprintf("%d", maxAnimationKey), item)
 				}
 
+				for name, value := range mixFiles {
+					if strings.Contains(value, item) || strings.Contains(value, strings.ToLower(item)) {
+						fmt.Printf("Found %s in %s \n", item, name)
+					}
+				}
+
 				if artOutputCheck.HasSection(item) {
 					continue
 				}
@@ -332,6 +356,13 @@ func main() {
 			}
 
 			for _, item := range removeDuplicates(rules2) {
+
+				for name, value := range mixFiles {
+					if strings.Contains(value, item) || strings.Contains(value, strings.ToLower(item)) {
+						fmt.Printf("Found %s in %s \n", item, name)
+					}
+				}
+
 				if rulesOutputCheck.HasSection(item) {
 					continue
 				}
